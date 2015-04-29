@@ -1,0 +1,119 @@
+<poetry version="1.0" encoding="utf-8">
+  <poet>
+    <name>قطري بن الفجاءة</name>
+    <sex>ذكر</sex>
+    <date>None</date>
+    <period>أموي</period>
+    <location>None</location>
+  </poet>
+  <poems number="4">
+    <poem id="1">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أقول لها وقد طارت شعاعا</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="7">
+        <line id="1">
+          <shatr id="1">أَقولُ لَها وَقَد طارَت شَعاعاً</shatr>
+          <shatr id="2">مِنَ الأَبطالِ وَيحَكِ لَن تُراعي</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فَإِنَّكِ لَو سَأَلتِ بَقاءَ يَومٍ</shatr>
+          <shatr id="2">عَلى الأَجَلِ الَّذي لَكِ لَم تُطاعي</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فَصَبراً في مَجالِ المَوتِ صَبراً</shatr>
+          <shatr id="2">فَما نَيلُ الخُلودِ بِمُستَطاعِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وَلا ثَوبُ البَقاءِ بِثَوبِ عِزٍّ</shatr>
+          <shatr id="2">فَيُطوى عَن أَخي الخَنعِ اليُراعُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">سَبيلُ المَوتِ غايَةُ كُلِّ حَيٍّ</shatr>
+          <shatr id="2">فَداعِيَهُ لِأَهلِ الأَرضِ داعي</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وَمَن لا يُعتَبَط يَسأَم وَيَهرَم</shatr>
+          <shatr id="2">وَتُسلِمهُ المَنونُ إِلى اِنقِطاعِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">وَما لِلمَرءِ خَيرٌ في حَياةٍ</shatr>
+          <shatr id="2">إِذا ما عُدَّ مِن سَقَطِ المَتاعِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="2">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا أيها الباغي</title>
+      <qafya>ا</qafya>
+      <type>نتفة</type>
+      <lines number="2">
+        <line id="1">
+          <shatr id="1">أَلا أَيُّها الباغي البِرازَ تَقَرَّبَن</shatr>
+          <shatr id="2">أُساقِكَ بِالمَوتِ الذُعافَ المُقَشَّبا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فَما في تَساقي المَوتِ في الحَربِ سُبَّةٌ</shatr>
+          <shatr id="2">عَلى شارِبَيهِ فَاِسقِني مِنهُ وَاِشرَبا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="3">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألم يأتها أني لعبت بخالد</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">أَلَم يَأتِها أَنّي لَعِبتُ بِخالِدٍ</shatr>
+          <shatr id="2">وَجاوَزتُ حَدَّ اللُعبِ لَولا المُهَلَّبُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وَأَنا أَخَذنا مالَهُ وَسِلاحَهُ</shatr>
+          <shatr id="2">وَسُقنا لَهُ نيرانَها تَتَلَهَّبُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فَلَم يَبقَ مِنهُ غَيرُ مُهجَةِ نَفسِهِ</shatr>
+          <shatr id="2">وَقَد كانَ مِنهُ المَوتُ شَبراً وَأَقرَبُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وَلكِن مُنينا بِالمُهَلَّبِ إِنَّهُ</shatr>
+          <shatr id="2">شَجىً قاتِلٌ في داخِلِ الحَلقِ مُنشَبُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="4">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا قل لبشر إن بشرا مصبح</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="5">
+        <line id="1">
+          <shatr id="1">أَلا قُل لِبُشرَ إِن بِشَراً مُصَبَّحٌ</shatr>
+          <shatr id="2">بِخَيلٍ كَأَمثالِ السَراحينَ شُزَّبِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">يُقَحِّمُها عَمرو القَنا وَعُبَيدَةٌ</shatr>
+          <shatr id="2">مُفدىً خِلالَ النَقعِ بِالأُمِ وَالأَبِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">هُنالِكَ لا تَبكي عَجوزٌ عَلى اِبنِها</shatr>
+          <shatr id="2">فَأَبشِر بِجَدعٍ لِلأُنوفِ مُوَعَّبِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">أَلَم تَرَنا وَاللَهُ بالِغُ أَمرِهِ</shatr>
+          <shatr id="2">وَمَن غالَبَ الأَقدارَ بِالشَرِّ يُغلَبُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">رَجِعنا إِلى الأَهوازِ وَالخَيلُ عُكَّفٌ</shatr>
+          <shatr id="2">عَلى الخَيرِ ما لَم تَرمِنا بِالمُهَلَّبِ</shatr>
+        </line>
+      </lines>
+    </poem>
+  </poems>
+</poetry>

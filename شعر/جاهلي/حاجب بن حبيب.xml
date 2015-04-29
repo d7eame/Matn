@@ -1,0 +1,117 @@
+<poetry version="1.0" encoding="utf-8">
+  <poet>
+    <name>حاجب بن حبيب</name>
+    <sex>ذكر</sex>
+    <date>None</date>
+    <period>جاهلي</period>
+    <location>None</location>
+  </poet>
+  <poems number="2">
+    <poem id="1">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>وباتت تلوم على ثادق</title>
+      <qafya>ا</qafya>
+      <type>قصيدة</type>
+      <lines number="10">
+        <line id="1">
+          <shatr id="1">وباتت تلومُ على ثادقٍ</shatr>
+          <shatr id="2">ليُشْرَى  فقد جَدَّ عِصيانُها</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">ألا إن نجواكِ في ثادق</shatr>
+          <shatr id="2">سَوَاءٌ عليَّ وإعْلانُها</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">وقالت: أغْثْنِي به إننَّي</shatr>
+          <shatr id="2">أرَى  الخيلَ قد ثابَ أثْمانُها</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فقلتُ: ألم تعَلمِي أنَّه</shatr>
+          <shatr id="2">كَرِيمُ المَكَبَّة ِ مِبْدَانُها</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">كُمَيْتٌ أمِرَّ على زَفْرَة ٍ</shatr>
+          <shatr id="2">طويلُ القوائمِ عريانها</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">تراه على الخيل ذا جُرْأة ٍ</shatr>
+          <shatr id="2">إذا ما نقطعَ أقرانها</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">وهنَّ يردنَ ورودَ القطا</shatr>
+          <shatr id="2">عُمَانَ وقد شُدَّ مُرَّانُها</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">طويلُ العنانِ قليلً العثا</shatr>
+          <shatr id="2">رِ خاظِي الطَّرِيقَة ِ رَيَّانُها</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وقلتُ: ألم تَعْلَمِي أنَّه</shatr>
+          <shatr id="2">جميلُ الطلالة ِ حسانها</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">يجمُّ على الساقِ بعد المتانِ</shatr>
+          <shatr id="2">جُموماً ويُبْلَغُ إمْكانُها</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="2">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أعلنت في حب جمحل أي إعلان</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="12">
+        <line id="1">
+          <shatr id="1">أعلنْتَ في حُبِّ جُمحلٍ أيَّ إعلانِ</shatr>
+          <shatr id="2">وقد بدا شأنها من بعدِ كتمانِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وقد سَعَى  بيننا الواشونَ واختلفُوا</shatr>
+          <shatr id="2">حتى  تجنبتها من غيرِ هجرانِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">هلْ أبْلُغَنْها بمثلِ الفَحْلِ ناجِية ٍ</shatr>
+          <shatr id="2">عنسٍ عذافرة ٍ بالرحلِ مذعانِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">كأنها واضحُ القرابِ حلاهُ</shatr>
+          <shatr id="2">عن ماءِ مَاوَانَ رامٍ بعد إمْكانِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">فجال هافٍ كسفُّودِ الحديدِ له</shatr>
+          <shatr id="2">وَسْطَ الأماعِزِ من نَقْعٍ جَنَابانِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">تهوي سنابكُ رجليهِ محنبة ً</shatr>
+          <shatr id="2">في مُكْرَهٍ من صَفيح القُفِّ كَذَّانِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">ينتابُ ماءَ قطياتٍ، فاخلفهُ</shatr>
+          <shatr id="2">وكانَ موردهُ ماءً بحورانِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">فلم يهلهُ ولكن خاضَ غمرتهُ</shatr>
+          <shatr id="2">يشفي الغليلَ بعذبٍ غيرِ مداِ ن</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">ويْلُ مِّ قَوْمٍ رأينا أمسِ سادتَهم</shatr>
+          <shatr id="2">في حادثاتٍ ألَمَّتْ خيرَ جيرانِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">يرعينَ غبا وإن يقصرنَ ظاهرة ً</shatr>
+          <shatr id="2">يَعْطِفْ كرامٌ على ما أحدثَ الجانِي</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">والحارثانِ إلى غاياتهم سبقاً</shatr>
+          <shatr id="2">غفواً كما أحرزَ السبقَ الجوادانِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">والمعطيانِ ابتغاءَ الحمدِ مالهما</shatr>
+          <shatr id="2">والحمدُ لا يشترى إلا بأثمانِ</shatr>
+        </line>
+      </lines>
+    </poem>
+  </poems>
+</poetry>

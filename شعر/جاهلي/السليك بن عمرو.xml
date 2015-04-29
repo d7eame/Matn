@@ -1,0 +1,83 @@
+<poetry version="1.0" encoding="utf-8">
+  <poet>
+    <name>السليك بن عمرو</name>
+    <sex>ذكر</sex>
+    <date>None</date>
+    <period>جاهلي</period>
+    <location>None</location>
+  </poet>
+  <poems number="4">
+    <poem id="1">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>لحى الله صعلوكا إذا جن ليله</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">لحى اللَّهُ صُعلوكاً، إذا جَنّ ليلُهُ</shatr>
+          <shatr id="2">مصافي المشاشِ، آلفاً كلَّ مجزرِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">يَعُدّ الغِنى من نفسه، كلّ ليلة</shatr>
+          <shatr id="2">أصابَ قِراها من صَديقٍ ميسَّر</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">ينامُ عِشاءً ثم يصبحُ ناعساً</shatr>
+          <shatr id="2">تَحُثّ الحَصى عن جنبِهِ المتعفِّر</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">يُعينُ نِساء الحيّ، ما يَستعِنّه</shatr>
+          <shatr id="2">ويمسي طليحاً كالبعيرِ المحسرِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="2">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ولكن صعلوكا صفيحة  وجهه</title>
+      <qafya>ر</qafya>
+      <type>قطعة</type>
+      <lines number="3">
+        <line id="1">
+          <shatr id="1">ولكنَّ صعلوكاً، صفيحة ُ وجههِ</shatr>
+          <shatr id="2">كضَوءِ شِهابِ القابس المتنوِّر</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">مطلاً على أعدائهِ يزجرونه</shatr>
+          <shatr id="2">بساحتهم، زجرَ المنيحِ المشهرِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فذلك إن يلقَ المنيّة يَلْقَها</shatr>
+          <shatr id="2">حميداً، وإن يَستَغنِ يوماً، فأجدِر</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="3">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ترود الأراوي الصحم حولي كأنها</title>
+      <qafya>؟</qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1"></shatr>
+          <shatr id="2">جَزوعاً، وهل، عن ذاك، من متأخر؟</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="4">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إذا هو أمسى كالعريش المجور</title>
+      <qafya></qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">إذا الليلُ أدجى واكفهرتْ نجومهُ</shatr>
+          <shatr id="2">وصاحَ، من الأفراطِ هامٌ جوائمُ</shatr>
+        </line>
+      </lines>
+    </poem>
+  </poems>
+</poetry>

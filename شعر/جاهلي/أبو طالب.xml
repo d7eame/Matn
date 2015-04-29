@@ -1,0 +1,2858 @@
+<poetry version="1.0" encoding="utf-8">
+  <poet>
+    <name>أبو طالب</name>
+    <sex>ذكر</sex>
+    <date>None</date>
+    <period>جاهلي</period>
+    <location>None</location>
+  </poet>
+  <poems number="63">
+    <poem id="1">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>تطاول ليلي بهم وصب</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="20">
+        <line id="1">
+          <shatr id="1">تَطاولَ ليلي بهمٍّ وَصِبْ</shatr>
+          <shatr id="2">ودَمعٍ كسَحٍّ السِّقاءِ السَّرِبْ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">للعبِ قُصَيٍّ بأحلامِها</shatr>
+          <shatr id="2">وهل يَرجِعُ الحلمُ بعدَ اللَّعِبْ؟</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">ونفيِ قُصَيٍّ بني هاشمٍ</shatr>
+          <shatr id="2">كنفيِ الطُّهاة ِ لطافَ الخَشَبْ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وقولٍ لأحمدَ: أنتَ امرؤٌ</shatr>
+          <shatr id="2">خَلوفُ الحديثِ، ضَعيفُ السَّبَبْ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وإنْ كانَ أحمدُ قد جاءَهُمْ</shatr>
+          <shatr id="2">بحقٍّ ولم يأتِهِمْ بالكذِبْ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">على أنَّ إخوانَنا وازَروا</shatr>
+          <shatr id="2">بني هاشمٍ وبني المطَّلِبْ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">هُما أخوانِ كعظمِ اليمينِ</shatr>
+          <shatr id="2">أمراً علينا بعقدِ الكَرَبْ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">فَيالَ قُصَيٍّ، ألمْ تُخْبَروا</shatr>
+          <shatr id="2">بما حلَّ مِن شؤونٍ في العربْ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">فلا تُمْسكُنَّ بأَيديكُمو</shatr>
+          <shatr id="2">بُعيدَ الأنوف بعجْبِ الذَّنَبْ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">ورُمتُمْ بأحمدَ ما رمتمُو</shatr>
+          <shatr id="2">على الأصراتِ وقربِ النسَبْ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">إلامَ إلامَ تَلاقَيْـتُمو</shatr>
+          <shatr id="2">بأمرِ مُزاحٍ وحلمٍ عَزَبْ؟</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">زَعَمتُم بأنَّكمو جِيرة ٌ</shatr>
+          <shatr id="2">وأَنَّكمو إخوَة ٌ في النَّسَبْ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فكيفَ تُعادونَ أبناءَهُ</shatr>
+          <shatr id="2">وأهلَ الدِّيانة ِ بيتَ الحَسَبْ؟</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">فإنَّا ومن حَجَّ مِن راكبٍ</shatr>
+          <shatr id="2">وكعبة ِ مكَّة َ ذاتِ الحُجَبْ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">تَنالون أحمدَ أو تَصْطلوا</shatr>
+          <shatr id="2">ظُباة َ الرِّماحِ وحَدَّ القُضُبْ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">وتَعْتَرفوا بينَ أبياتِكُمْ</shatr>
+          <shatr id="2">صُدورَ العَوالي وخَيلاً عُصَبْ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">إذِ الخيلُ تَمْزَعُ في جَرْيِها</shatr>
+          <shatr id="2">بسَيرِ العَنيقِ وحثِّ الخَبَبْ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">تَراهُنَّ مِن بينِ ضافي السَّبيبِ</shatr>
+          <shatr id="2">قَصيرَ الحزامِ طويلَ اللَّبَبْ</shatr>
+        </line>
+        <line id="19">
+          <shatr id="1">وجَرْداءَ كالظَّبِي سَيموحَة ٍ</shatr>
+          <shatr id="2">طَواها النَّقائعُ بعدَ الحَلَبْ</shatr>
+        </line>
+        <line id="20">
+          <shatr id="1">عَليها كرامُ بني هاشمٍ</shatr>
+          <shatr id="2">هُمُ الأَنجَبون معَ المُنْتَخبْ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="2">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أيا أخوينا عبد شمس ونوفلا</title>
+      <qafya>ا</qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">أّيا أخَوَينا عبدَ شمسٍ ونَوْفلا</shatr>
+          <shatr id="2">أعيذُكُما أنْ تَبْعثا بَيْننا حَرْبا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="3">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا ليت شعري كيف في النأي جعفر</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="5">
+        <line id="1">
+          <shatr id="1">ألا ليتَ شِعري كيفَ في النَّأْيِ جَعفرٌ</shatr>
+          <shatr id="2">وعَمروٌ وأعداءُ النبيِّ الأقاربُ؟</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فهل نالَ أفعالَ النَّجاشيِّ جعفرا</shatr>
+          <shatr id="2">وأصحابَهُ أو عاقَ ذلك شاعِبُ؟</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">تَعلَّمْ أبيتَ اللَّعْنَ أنَّكَ ماجِدٌ</shatr>
+          <shatr id="2">كريمٌ، فلا يَشقى لديكَ المُجانبُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">تَعلَّمْ بأنَّ اللهَ زادَك بَسْطَة ً</shatr>
+          <shatr id="2">وأفعالَ خيرٍ كلُّها بكَ لازِبُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وأنَّكَ فَيضٌ ذو سِجالٍ غَزيرة ٍ</shatr>
+          <shatr id="2">ينالُ الأَعادي نفعَها والأقارِبُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="4">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أنت الرسول رسول الله نعلمه</title>
+      <qafya></qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">أنتَ الرسولُ رسولُ اللهِ نَعلمُهُ</shatr>
+          <shatr id="2">عليكَ نُزِّلَ مِن ذي العِزَّة ِ الكتُبُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="5">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>بكيت أخا لأواء يحمد يومه</title>
+      <qafya></qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">بكيتُ أخا لأواءَ يُحمَدُ يومُهُ</shatr>
+          <shatr id="2">كريمٌ رؤوسَ الدَّارعينَ ضَروبُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="6">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>وما كنت أخشى أن يرى الذل فيكمو</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="3">
+        <line id="1">
+          <shatr id="1">وما كنتُ أخشى أنْ يُرى الذُّلُّ فيكُمو</shatr>
+          <shatr id="2">بني عبدِ شمسٍ جيرَتي والأقارب</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">جَميعا فلا زالتْ عليكم عظيمة ٌ</shatr>
+          <shatr id="2">تَعُمُّ وتَدعو أهْلَها بالجَباجِبِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أراكُم جَميعاً خاذِلين فذاهِبٌ</shatr>
+          <shatr id="2">عنِ النَّصرِ منّا أو غَوٍ مُتَجانِبِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="7">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إن عليا وجعفرا ثقتي</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">إنَّ علياً وجعفراً ثِقِتي</shatr>
+          <shatr id="2">عندَ احْتدامِ الأمورِ والكُرَبِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أراهُما عُرضَة َ اللِّقاءِ إذا</shatr>
+          <shatr id="2">سامَيّتُ أو أنّتَمي إلى حَسَبِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لا تَخْذُلا وانصُرا ابنَ عَمِّكُما</shatr>
+          <shatr id="2">أخي لأُمِّي مِن بَينِهم وأبي</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">واللهِ لا أخذُلُ النبيَّ ولا</shatr>
+          <shatr id="2">يخذُلُه من بنيَّ ذو حسبِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="8">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>يقولون لي: دع نصر من جاء بالهدى</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="3">
+        <line id="1">
+          <shatr id="1">يقولون لي: دَعْ نَصْرَ مَن جاءَ بالهُدى</shatr>
+          <shatr id="2">وغالبْ لنا غِلابَ كلِّ مُغالبِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وسلِّمْ إلينا أحمدا واكْفَلَنْ لنا</shatr>
+          <shatr id="2">بُنَّياً، ولا تَحفِلْ بقولِ الُمعاتبِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فقلتُ لهُمْ: الله ربِّي وناصِري</shatr>
+          <shatr id="2">على كلِّ باغٍ من لؤيِّ بنِ غالبِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="9">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>يا رب إما تخرجن طالبي</title>
+      <qafya>ي</qafya>
+      <type>قطعة</type>
+      <lines number="0"/>
+    </poem>
+    <poem id="10">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا من لهم آخر الليل منصب</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="18">
+        <line id="1">
+          <shatr id="1">أَلا مَن لهمٍّ آخِرَ الليلِ مُنْصِبِ</shatr>
+          <shatr id="2">وشِعْبِ العصا من قومكِ المتَشَعِّبِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وجَرْبى أراها من لؤيِّ بنِ غالبٍ</shatr>
+          <shatr id="2">مَتى ما تُزاحِمُها الصَّحيحة ُ لجربِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">إذا قائمٌ في القومِ قامَ بِخُطَّة ٍ</shatr>
+          <shatr id="2">أقاموا جميعاَ ثمَّ صاحوا وأَجْلَبوا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وما ذنبُ من يَدْعو إلى الله وحدَهُ</shatr>
+          <shatr id="2">ودينٍ قديمٍ أهلُه غيرُ خُيَّبِ؟</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وما ظُلْمُ مَن يَدْعو إلى البِرِّ والتُّقَى</shatr>
+          <shatr id="2">ورأبُ الثأَي في يومِ لاحينَ مَشْعَبِ؟</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وقد جُرِّبوا فيما مَضى غِبَّ أمرِهِمْ</shatr>
+          <shatr id="2">وما عالمٌ أمرا كَمَنْ لم يُجَرِّبِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">وقد كانَ في أمرِ الصَّحيفة ِ عِبرَة ٌ</shatr>
+          <shatr id="2">أتاكَ بِها مِن عائبٍ مُتَعَصِّبِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">مَحا اللهُ مِنها كُفْرَهُم وعُقُوقَهُمْ</shatr>
+          <shatr id="2">وما نَقَموا مِن صادِق القَوْلِ مُنْجِبِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1"></shatr>
+          <shatr id="2">على ساخطٍ مِنْ قَومِنا غيرِ مُعتَبِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">فلا تحسِبُونا خاذِلينَ محمَّداً</shatr>
+          <shatr id="2">لِذي غُرْبة ٍ منَّا ولا مُتَقرِّبِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">سَتَمنَعُه منَّا يدٌ هاشِمِيَّة ٌ</shatr>
+          <shatr id="2">مُركَّبُها في المجدِ خيرُ مركَّبِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">ويَنصُرُهُ الله الذي هوَ ربُّهُ</shatr>
+          <shatr id="2">بأهلِ العُقَيْرِ أو بسكَّانِ يَثْربِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فلا والذي يَخْدي لهُ كلَّ مُرْتَمٍ</shatr>
+          <shatr id="2">طَليحٍ بجنَبيْ نخلة ٍ فالمُحَصَّبِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">يميناً صَدَقْنا اللهَ فيها ولم نكُنْ</shatr>
+          <shatr id="2">لنحلِفَ بُطلاً بالعتيقِ المُحَجَّبِ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">نُفارقُهُ حتى نُصرَّعَ حَوْلَهُ</shatr>
+          <shatr id="2">وما بالُ تكذيبِ النبيِّ المُقَرَّبِ؟</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">فيا قَومَنا لا تَظْلمونا فإنَّنا</shatr>
+          <shatr id="2">متى ما نَخَفْ ظُلَمَ العَشيرة ِ نَغْضبِ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">وكُفُّوا إليكُمْ من فُضولِ حلومِكُمْ</shatr>
+          <shatr id="2">ولا تَذْهبوا من رأيِكم كلَّ مَذْهَبِ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">ولا تبدؤونا بالظُّلامة ِ والأذى</shatr>
+          <shatr id="2">فَنَجْزيكمُو ضِعْفاً معَ الأمِّ والأبِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="11">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا أبلغا عني على ذات بيننا</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="14">
+        <line id="1">
+          <shatr id="1">أَلا أَبلغا عنِّي على ذاتِ بَيْنِنا</shatr>
+          <shatr id="2">لُؤَّيا وخُصَّا من لؤيٍّ بني كعبِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">ألم تَعْلموا أنّا وَجَدْنا محمداً</shatr>
+          <shatr id="2">نبياًّ كموسى خُطَّ في أوّلِ الكُتْبِ؟</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">وأنّ عليه في العباد مَحَبَّة ً</shatr>
+          <shatr id="2">ولا خيرَ مَمَّنْ خَصَّهُ الله بالحُبِّ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وأنَّ الذي أّلْصَقتموا من كتابِكُم</shatr>
+          <shatr id="2">لكُمْ كائنٌ نَحْسا كراغية ِ السَّقْبِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">أَفِيقوا أفيقوا قبلَ أنْ يُحفرَ الثَّرى</shatr>
+          <shatr id="2">ويُصبحَ مَن لم يَجْنِ ذنبا كذي الذَّنبِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ولا تَتْبَعوا أمرَ الوُشاة وتَقْطعوا</shatr>
+          <shatr id="2">أواصرَنا بعدَ المودَّة ِ والقُربِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">وتَسْتَجْلبوا حربا عَوانا وربَّما</shatr>
+          <shatr id="2">أَمَرَّ على مَن ذاقَهُ جلَبُ الحرْبِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">فلسنا وربِّ البيتِ نُسلمُ أحمداً</shatr>
+          <shatr id="2">لعزَّاءِ من عضِّ الزَّمانِ ولا كَرْبِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">ولمّا تَبِنْ منّا ومنكُمْ سَوالفٌ</shatr>
+          <shatr id="2">وأيدٍ أُتِرَّتْ بالقُسَاسِّية الشُّهْبِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">بمُعْتَرَكٍ ضَنْكٍ تُرى كِسرُ القَنا</shatr>
+          <shatr id="2">به والنسورُ الطُّخم يَعْكِفْنَ كالشَّرْبِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">كأنّ صُهالَ الخيلِ في حَجَراتهِ</shatr>
+          <shatr id="2">ومَعْمعَة َ الأبطالِ مَعركة ٌ الحَرْبِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">أليسَ أبونا هاشمٌ شَدَّ أَزْرَهُ</shatr>
+          <shatr id="2">وأوصى بَنيهِ بالطِّعانِ وبالضَّرْبِ؟</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">ولسنا نَمَلُّ الحرْبَ حتَّى تَمَلَّنا</shatr>
+          <shatr id="2">ولا نَشْتكي ما قَدْ يَنُوبُ منَ النَّكْبِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">ولكنَّنا أهلُ الحفائظِ والنُّهى</shatr>
+          <shatr id="2">إذا طارَ أرواحُ الكماة ِ منَ الرُّعْبِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="12">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أسبلت عبرة  على الوجنات</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="6">
+        <line id="1">
+          <shatr id="1">أَسْبلتْ عَبرة ٌ على الوَجَناتِ</shatr>
+          <shatr id="2">قد مَرَتْها عَظيمَة َ الحَسَراتِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">لأخٍ سيدٍ نجيبٍ لقَرْمٍ</shatr>
+          <shatr id="2">سيدٍ في الذُّرى منَ السَّاداتِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">سيدٌ وابنُ سادة ٍ أَحْرزوا المجْـ</shatr>
+          <shatr id="2">ـدَ قديما وشَيَّدوا المكْرُماتِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">جعلَ اللهُ مجدَهُ وعُلاهُ</shatr>
+          <shatr id="2">في بَنيهِ نَجابَة ً والبنَاتِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">مِن بني هاشمٍ وعبدِ مَنافِ</shatr>
+          <shatr id="2">وقُصَيٍّ أربابِ أهلِ الحياة ِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">حيُّهُم سيِّدٌ لأحياءِ ذا الخَلْـ</shatr>
+          <shatr id="2">ـقِ ومَن ماتَ سَيدُ الأمواتِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="13">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>لا يمنعنك من حق تقوم به</title>
+      <qafya></qafya>
+      <type>نتفة</type>
+      <lines number="2">
+        <line id="1">
+          <shatr id="1">لا يَمْنَعنَّكَ مِن حَقٍّ تَقومُ بهِ</shatr>
+          <shatr id="2">أيدٍ تَصولُ ولا سَلْقٌ بأصواتِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فإنَّ كفَّكَ كَفِّي إنْ مُنيتَ بهم</shatr>
+          <shatr id="2">ودونَ نفسِك نَفْسي في المُلِمَّاتِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="14">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إعلم أبا أروى بأنك ماجد</title>
+      <qafya>ا</qafya>
+      <type>قطعة</type>
+      <lines number="6">
+        <line id="1">
+          <shatr id="1">إعلَمْ أبا أرْوَى بأنَّكَ ماجدٌ</shatr>
+          <shatr id="2">مِن صُلْبِ شَيبَة َ فانْصُرَنَّ محمَّدا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">للهِ دَرُّك إنْ عرفْتَ مكانَهُ</shatr>
+          <shatr id="2">في قومهِ ووَهَبْتَ منكَ لهُ يَدا!</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أمَّا عليٌّ فارْتَبَتْهُ أمُّهُ</shatr>
+          <shatr id="2">ونَشا على مِقَة ٍ لهُ وتَزَيَّدا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">شَرُفَ القِيامَة َ والمعادَ بِنَصرهِ</shatr>
+          <shatr id="2">وبعاجلِ الدنيا يَحُوزُ السُّؤْدَدا</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">أكرِمْ بمن يُفْضى إليهِ بأمرِهِ</shatr>
+          <shatr id="2">نَفْساً إذا عَدَّ النُّفوسَ ومَحْتِدا</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وخلائقا شَرُفَتْ بمجدِ نِصابهِ</shatr>
+          <shatr id="2">يَكْفيك منْهُ اليوْمَ ما تَرْجو غَدا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="15">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا هل أتى بحرينا صنع ربنا</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="26">
+        <line id="1">
+          <shatr id="1">ألا هَلْ أتَى بَحْريِّنا صُنعُ ربِّنا</shatr>
+          <shatr id="2">على نَأْيِهمْ، واللهُ بالناسِ أرْوَدُ؟</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فيُخبرَهُمْ أنَّ الصَّحيفَة َ مُزِّقَتْ</shatr>
+          <shatr id="2">وأنْ كلُّ ما لم يَرْضَهُ اللهُ مُفْسَدُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">تَرَاوَحَها إفكٌ وسِحرٌ مُجمَّعٌ</shatr>
+          <shatr id="2">ولم يُلفَ سِحْرٌ آخرَ الدَّهرِ يَصعدُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">تَداعَى لها مَن ليسَ فيها بِقَرْقَرٍ</shatr>
+          <shatr id="2">فطائرُها في رأسها يَتَردَّدُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وكانت كفاءً وقعة ٌ بأثيمة ٍ</shatr>
+          <shatr id="2">لِقُطَعَ منها سَاعدٌ ومُقلَّدُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ويظعَنُ أهلُ المكَّتَينِ فيهرُبوا</shatr>
+          <shatr id="2">فرائصُهم من خَشْية ِ الشرِّ تُرعَدُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">ويُتْرَكَ حرَّاثٌ يقلِّبُ أمرَهُ</shatr>
+          <shatr id="2">أَيُتْهِمُ فيها عندَ ذاكَ ويُنجِدُ؟</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">وتصعَدُ بينَ الأخْشَبينٍ كتيبة ٌ</shatr>
+          <shatr id="2">لها حَدَجٌ سَهمٌ وقوسٌ ومِرْهَدُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">فمن يَنْشَ مِن حُضَّارِ مكَّة َ عزُّهُ</shatr>
+          <shatr id="2">فعزَّتُنا في بطنِ مكَّة َ أتلَدُ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">نَشأنا بها والناسُ فيها قلائلٌ</shatr>
+          <shatr id="2">فلم نَنْفكِكْ نزدادُ خِيرا ونُحمدُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">ونُطعِمُ حتى يَتْرُكَ الناسُ فضلَهُم</shatr>
+          <shatr id="2">إذا جُعِلتْ أيدي المُفِيضينَ تُرْعَدُ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">جَزى اللهُ رهطا بالحَجونِ تَتَابَعوا</shatr>
+          <shatr id="2">على مَلأ يهدي لحزمٍ ويُرشِدُ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">قُعودا لدى حَطْمِ الحَجون كأنَّهُمْ</shatr>
+          <shatr id="2">مَقاولة ٌ بل هُمْ أعزُّ وأمجَدُ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">أعانَ عليها كلُّ صَقرٍ كأنَّه</shatr>
+          <shatr id="2">إذا ما مشَى في رَفْرفِ الدِّرعِ أجْرَدُ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">جريءٌ على جُلَّى الخُطوبِ كأنّه</shatr>
+          <shatr id="2">شهابٌ بكفَّيْ قابسٍ يَتوَقَّدُ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">منَ الأكرمينَ في لؤيِّ بنِ غالبٍ</shatr>
+          <shatr id="2">إذا سِيمَ خَسْفاً وجهُهُ يَتَربَّدُ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">طويلُ النِّجادِ خارجٌ نصفُ ساقِه</shatr>
+          <shatr id="2">على وجههِ يُسقَى الغَمامُ ويُسعَدُ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">عظيمُ الرَّمادِ سَيِّدٌ وابنُ سيدٍ</shatr>
+          <shatr id="2">يَحضُّ على مَقْرَى الضُّيوفِ ويحشُدُ</shatr>
+        </line>
+        <line id="19">
+          <shatr id="1">ويَبْني لأبناءِ العَشيرة ِ صالحا</shatr>
+          <shatr id="2">إذا نحنُ طُفنا في البلادِ ويُمْهِدُ</shatr>
+        </line>
+        <line id="20">
+          <shatr id="1">ألظَّ بهذا الصُّلح كلُّ مُبرَّأٍ</shatr>
+          <shatr id="2">عظيمُ اللواءِ أَمْرُهُ ثَمَّ يُحمَدُ</shatr>
+        </line>
+        <line id="21">
+          <shatr id="1">قَضَوا ما قَضوا في ليلهِم ثم أصبحوا</shatr>
+          <shatr id="2">على مَهَلٍ وسائرُ الناسِ رُقَّدُ</shatr>
+        </line>
+        <line id="22">
+          <shatr id="1">هُمو رَجَعوا سَهْلَ ابنَ بيضاءَ راضياً</shatr>
+          <shatr id="2">وسُرَّ أبو بكرٍ بها ومحمَّدُ</shatr>
+        </line>
+        <line id="23">
+          <shatr id="1">متى شُرِكَ الأقوامُ في جِلِّ أمرنا</shatr>
+          <shatr id="2">وكنّا قديماً قَبلَها نَتَوَدّدُ؟</shatr>
+        </line>
+        <line id="24">
+          <shatr id="1">وكنا قديماً لا نُقِرُّ ظُلامة ً</shatr>
+          <shatr id="2">وندركُ ما شِئنا ولا نَتَشدَّدُ</shatr>
+        </line>
+        <line id="25">
+          <shatr id="1">فيا لَقُصيٍّ هَل لكُمْ في نفوسِكُمْ</shatr>
+          <shatr id="2">وهَل لكُمو فيما يجيُ بهِ الغدُ؟</shatr>
+        </line>
+        <line id="26">
+          <shatr id="1">فإنّي وإيَّاكم كما قالَ قائل:</shatr>
+          <shatr id="2">لدَيْكَ البَيانُ لو تكلمتَ أسْوَدُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="16">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أنت النبي محمد</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="12">
+        <line id="1">
+          <shatr id="1">أنتَ النبيُّ محمدُ</shatr>
+          <shatr id="2">قرْمٌ أغرُّ مُسَوَّدُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">لمسوَّدين أكارمٍ</shatr>
+          <shatr id="2">طابوا وطابَ المَوْلدُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">نعمَ الأرومة ُ أصلُها</shatr>
+          <shatr id="2">عَمْرُو الخِضمُّ الأَوحَدُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">هشَمَ الرِّبيكَة َ في الجفا</shatr>
+          <shatr id="2">نِ وعيشُ مكَّة َ أنكَدُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">فَجَرتْ بذلك سُنَّة ً</shatr>
+          <shatr id="2">فيها الخبيزة ُ تُثْردُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ولنا السقاية ُ للحَجيـ</shatr>
+          <shatr id="2">ـجِ بها يُماثُ العُنجُدُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">والمأزمانِ وما حَوتْ</shatr>
+          <shatr id="2">عَرفاتُها والمسجدُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">أنَّى تُضامُ ولم أمُتْ</shatr>
+          <shatr id="2">وأنا الشجاعُ العِرْبِدُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وبطاحُ مكة لا يُرى</shatr>
+          <shatr id="2">فيها نَجيعٌ أسْوَدُ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">وبنو أبيكَ كأنَّهُمْ</shatr>
+          <shatr id="2">أُسْدُ العرينِ تَوقَّدُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">ولقد عَهدتُك صادقاً</shatr>
+          <shatr id="2">في القَوْلِ لا تَتَزَيَّدُ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">ما زلتَ تنطقُ بالصَّوا</shatr>
+          <shatr id="2">بِ وأنتَ طفلٌ أمْرَدُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="17">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>مليك الناس ليس له شريك</title>
+      <qafya></qafya>
+      <type>نتفة</type>
+      <lines number="2">
+        <line id="1">
+          <shatr id="1">مَليكُ الناسِ ليسَ لهُ شَريكٌ</shatr>
+          <shatr id="2">هوَ الوهّابُ والمُبْدي المُعيدُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">ومَن تَحتَ السَّماءِ لهُ بحقٍ</shatr>
+          <shatr id="2">ومنَ فَوقَ السماءِ لهُ عَبيدُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="18">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>لقد أكرم الله النبي محمدا</title>
+      <qafya></qafya>
+      <type>نتفة</type>
+      <lines number="2">
+        <line id="1">
+          <shatr id="1">لَقَد أكرمَ اللهُ النَّبيَّ مُحمَّداً</shatr>
+          <shatr id="2">فأَكرمُ خلقِ الله في الناس أَحْمدُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وشَقَّ له منْ إسْمهِ ليُجِلَّهُ</shatr>
+          <shatr id="2">فذو العرشِ محمودٌ وهذا محمَّدُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="19">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>فما رجعوا حتى رأوا من محمد</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="7">
+        <line id="1">
+          <shatr id="1">فما رجعوا حتى رأَوْا مِن محمَّدٍ</shatr>
+          <shatr id="2">أحاديثَ تَجْلو همَّ كلِّ فُؤادِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وحتَّى رأَوا أحبارَ كلِّ مدينة ٍ</shatr>
+          <shatr id="2">سُجوداً لهُ مِن عُصْبة ٍ وفُرادِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">ذَرِيرا وتَمَّاما وقد كانَ شاهدا</shatr>
+          <shatr id="2">دَريسٌ وهمُّوا كلُّهُم بفسادِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فقالَ لَهُم قَولاً بَحِيرا وأَيْقَنوا</shatr>
+          <shatr id="2">لهُ بعدَ تكذيبٍ وطُولِ بَعادِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">كما قالَ للرَّهْطِ الذينَ تَهَوَّدوا</shatr>
+          <shatr id="2">وجاهَدَهُم في اللهِ كلَّ جِهادِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فقالَ ولم يَتْرُكْ لهُ النُّصْحُ رِدَّة ً</shatr>
+          <shatr id="2">فإنَّ لهُ إرصادَ كلِّ مَصادِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">فإني أخافُ الحاسِدينَ، وإنَّهُ</shatr>
+          <shatr id="2">لَفي الكُتْبِ مَكْتوبٌ بكُلِّ مِدادِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="20">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إن الأمين محمدا في قومه</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="12">
+        <line id="1">
+          <shatr id="1">إنَّ الأمينَ محمدا في قَومهِ</shatr>
+          <shatr id="2">عِندي يفوق منازلَ الأولادِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">لمّا تعلَّقَ بالزِّمامِ ضَمَمْتُهُ</shatr>
+          <shatr id="2">والعِيسُ قد قَلَّصْنَ بالأزوادِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فارْفَضَّ مِن عينيَّ دَمْعٌ ذارفٌ</shatr>
+          <shatr id="2">مثلُ الجُمانِ مُفرَّقٌ ببدادِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">راعَيْتُ فيهِ قرابة ً مَوْصولة ً</shatr>
+          <shatr id="2">وحفظتُ فيهِ وصيَّة َ الأجدادِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">ودَعوتُهُ للسَّيرِ بينَ عُمومة ٍ</shatr>
+          <shatr id="2">بِيضِ الوجوهِ مَصالتٍ أمجادِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ساروا لأبعدِ طيَّة ٍ مَعلومة ٍ</shatr>
+          <shatr id="2">فلقد تُباعدُ طيَّة ُ المُرْتادِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">حتى إذا ما القومُ بصرى عايَنوا</shatr>
+          <shatr id="2">لاقَوْا على شَرَفٍ منَ المِرْصادِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">حَبرا فأَخْبَرهُم حديثا صادقا</shatr>
+          <shatr id="2">عنهُ وردَّ معاشرَ الحُسّادِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">قومٌ يهودٌ قد رأوا ما قد رأوا</shatr>
+          <shatr id="2">ظِلَّ الغمامة ِ ثاغِري الأكبادِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">ثاروا لقتلِ محمدٍ فَنَهاهُمُو</shatr>
+          <shatr id="2">عنهُ وجاهدَ أَحسنَ التّجْهادِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">وثنى بَحِيراءٌ ذريرا فانْثَنى</shatr>
+          <shatr id="2">في القَومِ بعدَ تَجادُلٍ وتَعادي</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">ونهى دَريسا فانْتَهى لمَّا نُهي</shatr>
+          <shatr id="2">عن قَولِ حِبرٍ ناطقٍ بِسَدادِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="21">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>بكى طربا لما رآني محمد</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="6">
+        <line id="1">
+          <shatr id="1">بكى طَرَباً لمّا رآني محمَّدٌ</shatr>
+          <shatr id="2">كأَنْ لا يَراني راجعاً لِمعَادِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فبتُّ يُجافِيني تَهلُّلُ دَمعهِ</shatr>
+          <shatr id="2">وعَبرتُه عن مَضْجعي ووِسادِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فقلتُ له: قرِّبْ قُتودَكَ وارتَحِلْ</shatr>
+          <shatr id="2">ولا تَخْشَ منِّي جَفْوة ً ببلادِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وخَلِّ زِمامَ العِيسِ وارْحلْ بنا معاً</shatr>
+          <shatr id="2">على عَزْمة ٍ من أمرِنا ورَشادِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">ورُحْ رائحاً في الرائحينَ مُشَيَّعاً</shatr>
+          <shatr id="2">لِذي رَحمٍ والقومُ غيرُ بعادِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فَرُحْنا معَ العِيرِ التي  راح ركْبُها</shatr>
+          <shatr id="2">يَؤُمُّونَ مِن غَوْرَينِ أرضَ إيادِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="22">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>عين إئذني ببكاء آخر الأبد</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">عينُ إئْذَني ببكاءٍ آخرَ الأبدِ</shatr>
+          <shatr id="2">ولا تملِّي على قَرْمٍ لنا سَنَدِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أشكو الذي بي من الوجدِ الشديدِ لهُ</shatr>
+          <shatr id="2">وما بقلبي منَ الاڑلام والكَمَدِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أضحى أبوهُ لهُ يَبْكي وأخوتُهُ</shatr>
+          <shatr id="2">بكلِّ دمعٍ على الخدَّينِ مُطَّرِدِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">لو عاش كانَ لِفْهِرٍ كلِّها عَلماً</shatr>
+          <shatr id="2">إذْ كانَ منها مكانَ الرُّوحِ للجسَدِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="23">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>يا شاهد الخلق علي فاشهد</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="0"/>
+    </poem>
+    <poem id="24">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>وخالي هشام بن المغيرة  ثاقب</title>
+      <qafya></qafya>
+      <type>نتفة</type>
+      <lines number="2">
+        <line id="1">
+          <shatr id="1">وخالي هشامُ بنُ المغيرة ِ ثاقبٌ</shatr>
+          <shatr id="2">إذا همَّ يوماً كالحُسامِ المُهَّندِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وخالي الوليدُ العِدْلُ عالٍ مكانُهُ</shatr>
+          <shatr id="2">وخالُ أبي سُفيانَ عَمرُو بنُ مَرْثَدِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="25">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>صبرا أبا يعلى على دين أحمد</title>
+      <qafya>ا</qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">صَبرا أبا يَعْلى على دينِ أحمدٍ</shatr>
+          <shatr id="2">وكُنْ مُظهرا للدين وُفِّقْتَ صابرا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وحُطْ مَن أتَى بالحقِّ من عندِ ربِّه</shatr>
+          <shatr id="2">بصدقٍ وعَزْمٍ لا تكُنْ حَمْزَ كافرا</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فقد سَرَّني إذْ قلتَ إنَّكَ مؤمنٌ</shatr>
+          <shatr id="2">فكُنْ لرسولِ اللهِ في اللهِ ناصِرا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">ونادِ قُريشا بالَّذي قَد أتيتَهُ</shatr>
+          <shatr id="2">جِهارا وقُلْ: ما كانَ أحمدُ ساحرا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="26">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إذا قيل: من خير هذا الورى</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">إذا قيلَ: مَن خيرُ هذا الوَرى</shatr>
+          <shatr id="2">قَبيلاً وأكرمُهُمْ أَسَرَتي؟</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أنافَ بعيدِ منافٍ أبٌ</shatr>
+          <shatr id="2">وفضلُه هاشمٌ الغُرَّة ِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لقد حلَّ كجدُ بني هاشمٍ</shatr>
+          <shatr id="2">مكان النعائمِ والنَّثْرة ِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وخيرُ بني هاشمٍ أحمدٌ</shatr>
+          <shatr id="2">رسولُ الإلهِ على فَتْرَة ِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="27">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أرقت ودمع العين في العين غائر</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="13">
+        <line id="1">
+          <shatr id="1">أرقتُ ودمعُ العينِ في العَينِ غائرُ</shatr>
+          <shatr id="2">وجادَتْ بما فيها الشُّؤونُ الأعاوِرُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">كأنَّ فِراشي فوقَهُ نارُ مَوقِدٍ</shatr>
+          <shatr id="2">منَ الليلِ أو فوقَ الفراشِ السَّواجِرُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">على خيرِ حافٍ من قريشٍ وناعلٍ</shatr>
+          <shatr id="2">إذا الخَيرُ يُرجى أو إذا الشَّرُّ حاضِرُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">ألا إنَّ زادَ الركبِ غيرَ مُدافَعٍ</shatr>
+          <shatr id="2">بسروِ سُحَيمٍ غَيَّبَتْهُ المقابرُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">بسروِ سُحيمٍ عازفٌ ومُناكِرٌ</shatr>
+          <shatr id="2">وفارسَ غاراتٍ خطيبٌ وياسِرُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">تَنادَوا بأنْ لا سيِّدَ الحيِّ فيهمِ</shatr>
+          <shatr id="2">وقد فُجعَ الحيَّانِ: كعبٌ وعامرُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">وكانَ إّذا يأتي منَ الشام قافلاً</shatr>
+          <shatr id="2">تقدَّمَه تَسعَى إلينا البشائرُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">فيصبحُ أهلُ اللهِ بيضاً كأنَّما</shatr>
+          <shatr id="2">كسَتْهُم حَبيرا رَيْدة ٌ ومَعافِرُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">تَرى دارة ً لا يبرحُ الدَّهرَ عندَها</shatr>
+          <shatr id="2">مُجَعْجِعَة ً كومٌ سِمانٌ وباقرُ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">إذا أكلتْ يوما أتَى الغدَ مثلَها</shatr>
+          <shatr id="2">زواهقُ زُهْمٌ أو مَخاضٌ بَهازِرُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">ضَروبٌ بنصلِ السَّيفِ سُوقَ سِمانِها</shatr>
+          <shatr id="2">إذا عَدِموا زاداً فإنَّك عاقرُ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">فإنْ لا يكُنْ لحمٌ غَريضٌ فإنَّهُ</shatr>
+          <shatr id="2">تُكبُّ على أفواهِهنَّ الغرائرُ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فيا لك من ناعٍ حُبيتَ بأَلَّة ٍ</shatr>
+          <shatr id="2">شِراعية ٍ تَصْفرُّ منها الأظافرُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="28">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>فقدنا عميد الحي فالركن خاشع</title>
+      <qafya>و</qafya>
+      <type>قطعة</type>
+      <lines number="5">
+        <line id="1">
+          <shatr id="1">فقَدْنا عَميدَ الحيِّ فالرُّكنُ خاشِعٌ</shatr>
+          <shatr id="2">لفقدِ أبي عُثمانَ والبيتُ والحِجْرُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وكانَ هشامُ بنُ المغيرة ِ عِصمَة ً</shatr>
+          <shatr id="2">إذا عركَ النَّاسَ المخاوِفُ والفَقْرُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">بأبياتهِ كانتْ أراملُ قَومهِ</shatr>
+          <shatr id="2">تلوذُ وأيتامُ العشيرة ِ والسَّفْرُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فودَّتْ قُريشٌ لو فَدتْهُ بشطرِها</shatr>
+          <shatr id="2">وقَلَّ لَعَمري لو فَدَوْه لهُ الشَّطْرُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">نقولُ لعمرٍو: أنتَ منهُ وإنَّنا</shatr>
+          <shatr id="2">لنرجوك في جِلِّ المهِمَّات يا عَمْرُو</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="29">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا ليت حظي من حياطة  نصركم</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="16">
+        <line id="1">
+          <shatr id="1">ألا لَيتَ حظِّي من حِياطَة ِ نَصْرِكُمْ</shatr>
+          <shatr id="2">بأنْ ليس لي نفعٌ لديكُمْ ولا ضُرُّ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وسارٍ برَحْلي فاطرُ النَّابِ جاشمٌ</shatr>
+          <shatr id="2">ضَعيفُ القُصَيْرى لا كبيرٌ ولا بكرُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">منَ الخُورِ حَبْحابٌ كثيرٌ رُغاؤهُ</shatr>
+          <shatr id="2">يُرَشُّ على الحاذَينِ مِن بَولِه قَطْرُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">تَخلَّفَ خلفَ الوَرْدِ ليس بلاحقٍ</shatr>
+          <shatr id="2">إذا ما عَلا الفَيفاءَ قيلَ لهُ وَبْرُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">أرى أخَوَينا من أبينا وأمَّنا</shatr>
+          <shatr id="2">إذا سُئلا قالا: إلى غيرِنا الأمرُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">بلى لهما أمرٌ ولكنْ تَجَرْجَما</shatr>
+          <shatr id="2">كما جُرْجِمتْ من رأسِ ذي العَلقِ الصَّخرُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">أخصُّ خُصوصا عبدَ شمسٍ ونَوفلاً</shatr>
+          <shatr id="2">هُما نَبَذانا مثلَ ما نُبِذَ الجَمْرُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">وما ذاكَ إلا سُؤدَدٌ خَصَّنا بهِ</shatr>
+          <shatr id="2">إلهُ العبادِ واصطفانا لهُ الفَخْرُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">هُما أَغْمزا للقَومِ في أخَوَيْهِما</shatr>
+          <shatr id="2">فقد أَصبحا منْهُمْ أكفُّهما صِفْرُ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">هُما أَشْركا في المجدِ مَن لا أبالَهُ</shatr>
+          <shatr id="2">منَ الناس إلا أنْ يُرَسَّ لهُ ذِكرُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">رِجالٌ تَمالَوْا حاسدينَ وبِغْضة ً</shatr>
+          <shatr id="2">لأهل العُلا فَبينَهُم أبداً وِتْرُ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">وليدٌ أبوه كانَ عبداً لجدِّنا</shatr>
+          <shatr id="2">إلى عِلجَة ٍ زَرقاءَ جالَ بها السِّحرُ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">وتَيْم ومخزومٍ وزَهرة ٍ مِنْهُمو</shatr>
+          <shatr id="2">وكانوا بنا أَولى إذا بُغيَ النَّصْرُ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">وزَهرة ٍ كانوا أوليائي زناصِري</shatr>
+          <shatr id="2">وأَنْتُمْ إّذا تُدْعَون في سَمعِكُمْ وَقْرُ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">فقد سَفَهتْ أخلاقُهم وعُقولُهمْ</shatr>
+          <shatr id="2">وكانوا كجَفْرٍ بئسَما صَنعتْ جَفْرُ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">فو اللهِ لا تنفكُّ منَّا عَداوة ٌ</shatr>
+          <shatr id="2">ولا مِنْهمو ما دامَ في نَسْلِنا شَفْرُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="30">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا إن خير الناس حيا وميتا</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="7">
+        <line id="1">
+          <shatr id="1">ألا إنَّ خيرَ الناسِ حيّاً وميِّتاً</shatr>
+          <shatr id="2">بِوادي أشِيٍّ غيَّبَتْهُ المقابِرُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">نُبكِّي أباها أمُّ وهب وقد نأى</shatr>
+          <shatr id="2">ورَيْشانُ أَضحى دونَه ويُحابِرُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">تَولَّوا ولا أبو أميَّة َ فِيهُمو</shatr>
+          <shatr id="2">لقد بلغتْ كَظَّ النُّفوسِ الحَناجرُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">ترى دارَهُ لا يبرحُ الدَّهر وسْطَها</shatr>
+          <shatr id="2">مُجَعْجِعة ٌ أدْمٌ سِمانٌ وباقِرُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">ضَروبٌ بِنصْلِ السَّيفِ سُوقَ سِمانِها</shatr>
+          <shatr id="2">إذا أرملوا زادا فإنَّك عاقرُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وإنْ لم يكُنْ لحمٌ غَريضٌ فإنَّهُ</shatr>
+          <shatr id="2">تُمرَّى لهُمْ أخلاقُهُنَّ الدَّرائرُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">فيصبِحُ آلُ اللهِ بِيضاً كأنَّما</shatr>
+          <shatr id="2">كسَتْهُمْ حَبيرا رَيْدة ٌ ومُعافرُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="31">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا أبلغ قريشا حيث حلت</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="9">
+        <line id="1">
+          <shatr id="1">ألا أَبْلِغْ قُريشاً حيثُ حلَّتْ</shatr>
+          <shatr id="2">وكلُّ سَرائرٍ منها غُرورُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فإنِّي والضَّوابحُ غادِياتٌ</shatr>
+          <shatr id="2">وما تَتْلو السَّفَاسِرة ُ الشُّهورُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لِآلِ مُحَمّدٍ راعٍ حَفيظٌ</shatr>
+          <shatr id="2">وِدادُ الصَدرِ مِنّي وَالضَميرُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فلستُ بقاطعٍ رَحْمي ووُلْدي</shatr>
+          <shatr id="2">ولو جَرَّتْ مَظالِمَها الجرورُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">أيا مَن جَمعُهم أفناءُ فِهرٍ</shatr>
+          <shatr id="2">لقتلِ محمدٍ والآمرُ زُورُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فلا وَأبيكَ لا ظَفرتْ قريشٌ</shatr>
+          <shatr id="2">ولا لَقيتْ رَشاداً إذ تُشيرُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">بَني أخي ونوطُ قَلبي مِني</shatr>
+          <shatr id="2">وأبيضُ ماؤهُ غَدَقٌ كثيرُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">ويَشربُ بعدَهُ الوِلدان رِيّا</shatr>
+          <shatr id="2">وأحمدُ قَد تضمَّنَهُ القُبورُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">أيا ابنَ الأنفِ بَني قُصَيٍّ</shatr>
+          <shatr id="2">كأنَّ جَبينَك القمرُ المُنيرُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="32">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إن لنا أوله وآخره</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="0"/>
+    </poem>
+    <poem id="33">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>تقول ابنتي: أين الرحيل؟</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="6">
+        <line id="1">
+          <shatr id="1">تقولُ ابْنَتي: أينَ الرحيلُ؟</shatr>
+          <shatr id="2">وما البَيْنُ منِّي بمُسْتَنكَرِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فقلتُ: دَعيني فإنِّي امرؤٌ</shatr>
+          <shatr id="2">أريدُ النَّجاشيَّ في جَعفرِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لأكوِيَهُ عِندَهُ كيَّة ً</shatr>
+          <shatr id="2">أقيمُ بِها نَخْوة َ الأَصْعَرِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وإنَّ انثِنائيَ عَن هاشمٍ</shatr>
+          <shatr id="2">بِما اسطعْتُ في الغَيبِ والمَحْضَرِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وعَن عائبِ اللاتِ في قولهِ:</shatr>
+          <shatr id="2">ولولا رِضا اللاَّتِ لم نُمطرِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وإنِّي لأَشْنَا قريشا لهُ</shatr>
+          <shatr id="2">وإنْ كانَ كالذَّهبِ الأحْمَرِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="34">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أوصي بنصر النبي الخير مشهده</title>
+      <qafya>ا</qafya>
+      <type>قطعة</type>
+      <lines number="5">
+        <line id="1">
+          <shatr id="1">أُوصِي بنصرِ النبيِّ الخيْرِ مُشْهِدَهُ</shatr>
+          <shatr id="2">عَلياً ابْني وعمَّ الخيرِ عَبّاسا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وحمزة َ الأسَدَ المَخْشِيَّ صَوَلَتُهُ</shatr>
+          <shatr id="2">وجَعفراً أنْ تَذودوا دونَه النَّاسا</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">وهاشِما كلَّها أُوصي بِنُصرتهِ</shatr>
+          <shatr id="2">أنْ يأخذوا دونَ حَربِ القَومِ أَمراسا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">كونوا فِدًى، لكمُ نَفسي وما ولدَتْ</shatr>
+          <shatr id="2">مِن دونِ أحمدَ عندَ الرَّوْعِ أَتْراسا</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">بكلِّ أبيضَ مَصْقولٍ عَوارضُهُ</shatr>
+          <shatr id="2">تَخالُه في سَوادِ الليلِ مَقْاسا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="35">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>الحمد لله الذي قد شرفا</title>
+      <qafya>ا</qafya>
+      <type>قصيدة</type>
+      <lines number="8">
+        <line id="1">
+          <shatr id="1">الحمدُ للَّه الذي قد شَرَّفا</shatr>
+          <shatr id="2">قَومي، وأعلاهُم معاً وغَطْرَفا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">قَد سَبَقوا بالمجدِ مَن تَعَرَّفا</shatr>
+          <shatr id="2">مَجْداً تليداً واصلاً مُسْتَطرفا</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لو أنَّ أنفَ الرِّيحِ جاراهُمْ هَفا</shatr>
+          <shatr id="2">وصارَ عَن مَسعاتِهمْ مُخلَّفا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">كَفَوا إساة َ السَّيِّ مَن تكلَّفا</shatr>
+          <shatr id="2">كانوا لأهلِ الخافِقَينِ سَلفا</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وأصبحوا من كلِّ خَلقٍ خَلَفا</shatr>
+          <shatr id="2">هُمْ أَنْجمٌ وأبدُرٌ لنْ تُكْسَفا</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ومَوقِفٌ في الحرْبِ أَسنى مَوْقفا</shatr>
+          <shatr id="2">أسْدٌ تَهُدُّ بالزَّئيراتِ الصَّفا</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">تُرغمُ مِن أعدائهنَّ الاڑنُفا</shatr>
+          <shatr id="2">وتدفعُ الدهرَ الذي قَد أَجْحَفا</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">لو عُدَّ أَدنى جُودهِم لأَضْعَفا</shatr>
+          <shatr id="2">على البحارِ، والسَّحابَ اسْتَرْعفا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="36">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>منعنا أرضنا من كل حي</title>
+      <qafya></qafya>
+      <type>نتفة</type>
+      <lines number="2">
+        <line id="1">
+          <shatr id="1">مَنَعْنا أرْضَنا مِن كلِّ حَيٍّ</shatr>
+          <shatr id="2">كما امْتَنعتْ بطائِفها ثَقيفُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أتاهُمْ معشَرٌ كي يَسْلبوهم</shatr>
+          <shatr id="2">فحالتْ دونَ ذلكمُ السُّيوفُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="37">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>عجبت لحلم يا بن شيبة  عازب</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="13">
+        <line id="1">
+          <shatr id="1">عَجِبْتُ لحلمٍ يا بْنَ شَيبة َ عازِبٍ</shatr>
+          <shatr id="2">وأحلامِ أَقْوامٍ لديكَ سِخافِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">يقولونَ: شايِعْ مَن أرادَ محمَّدا</shatr>
+          <shatr id="2">بظُلمٍ، وقُمْ في أمرِهِ بخلافِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أضاميمُ إمّا حاسدٌ ذو خِيانة ٍ</shatr>
+          <shatr id="2">وإمَّا قَريبٌ منكَ غيرُ مُصافِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فلا تَرْكبَنَّ الدَّهرَ منهُ ذِمامة ً</shatr>
+          <shatr id="2">وأنتَ امرؤٌ مِن خَيرِ عبدِ منافِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">ولا تَتْرُكَنْهُ ما حَيِيتَ لمُعْظمٍ</shatr>
+          <shatr id="2">وكُنْ رجُلاً ذا نَجدة ٍ وعَفافِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">يذودُ العِدا عن ذِرْوَة ٍ هاشمية ٍ</shatr>
+          <shatr id="2">إلاَّفَهُمْ في النّاسِ خَيرُ إلافِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">فإنَّ لهُ قُربى لديكَ قَريبة ً</shatr>
+          <shatr id="2">وليسَ بِذي حِلْفٍ ولا بمُضافِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">ولكنَّه مِن هاشمٍ ذو صَميمِها</shatr>
+          <shatr id="2">إلى أبحُرٍ فَوقَ البحورِ طَوافِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وزاحِمْ جَميعَ الناسِ عنهُ وكُنْ لهُ</shatr>
+          <shatr id="2">وزيرا على الأعداءِ غَيرَ مُجافِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">وإنْ غَضِبتْ منهُ قُريشٌ فقُلْ لها:</shatr>
+          <shatr id="2">بَني عمِّنا ما قَومُكُمْ بضِعافِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">وما بالُكُم تَغْشَون منهُ ظُلامة ً؟</shatr>
+          <shatr id="2">وما بالُ أَحقادٍ هناك خَوافِ؟</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">فما قَومُنا بالقَوم يَغشَون ظُلمَنا</shatr>
+          <shatr id="2">وما نحنُ فيما ساءَهُمْ بخِفافِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">ولكنَّنا أهلُ الحفائظ والنُّهى</shatr>
+          <shatr id="2">وعِزٍّ ببطحاءِ المشاعرِ وافِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="38">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أبني طالب  إن شيخك ناصح</title>
+      <qafya>!</qafya>
+      <type>قصيدة</type>
+      <lines number="7">
+        <line id="1">
+          <shatr id="1">أَبُنيَّ طالبُ، إنَّ شَيْخَك ناصِحٌ</shatr>
+          <shatr id="2">فيما يقولُ مُسَدِّدٌ لكَ راتقُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فاضرِبْ بسَيْفِك مَن أرادَ مَساءَة ً</shatr>
+          <shatr id="2">حتَّى تكونَ له المنيَّة ُ ذائقُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">هذا رَجائي فيكَ بعدَ مَنِيَّتي</shatr>
+          <shatr id="2">لا زلتُ فيكَ بكلِّ رُشْدٍ واثقُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فاعضِدْ قُواهُ يا بُنيَّ وكنْ لهُ</shatr>
+          <shatr id="2">أنَّى يَجِدْكَ لا مَحالَة َ لاحِقُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">آها أردِّدُ حَسْرة ً لِفراقهِ</shatr>
+          <shatr id="2">إذْ لا أراهُ وقد تطاوَلَ باسِقُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">أتَرى أراهُ واللواءُ أمامَهُ</shatr>
+          <shatr id="2">وعليٌّ ابْني للِّواءِ مُعانقُ؟</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">أتَراهُ يَشْفعُ لي ويرحمُ عَبْرتي؟</shatr>
+          <shatr id="2">هَيْهاتَ، إني لا محالة َ زاهِقُ!</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="39">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أفيقوا بني غالب وانتهوا</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="11">
+        <line id="1">
+          <shatr id="1">أَفيقوا بني غالب وانْتَهُوا</shatr>
+          <shatr id="2">عن البَغْيِ في بعضِ ذا المَنْطِقِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وإلاّ فإنِّي إذاً خائفٌ</shatr>
+          <shatr id="2">بَوائقَ في داركُمْ تَلْتقي</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">تكونُ لغيرِكمو عِبْرة ً</shatr>
+          <shatr id="2">وربِّ المغاربِ والمَشْرِقِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">كما نالَ مَنْ كانَ مِن قَبلكُمْ</shatr>
+          <shatr id="2">ثَمودٌ وعادٌ فمن ذا بَقي؟</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">فحلَّ عَليهم بها سَخْطة ٌ</shatr>
+          <shatr id="2">منَ اللَّهِ في ضربة ِ الأَزرقِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">غَداة َ أتتهم بها صَرْصَرٌ</shatr>
+          <shatr id="2">وناقة ُ ذي العرشِ إذ تستقي</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">غَداة َ يُعِضُّ بعُرقوبِها</shatr>
+          <shatr id="2">حُساما منَ الهندِ ذا رَوْنقِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">وأعجبُ مِن ذاكَ مِن أمرِكُم</shatr>
+          <shatr id="2">عَجائبُ في الحَجَرِ المُلْصَقِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">بكفِّ الذي قامَ مَن حَيْنُه</shatr>
+          <shatr id="2">إلى الصَّابرِ الصادقِ المُتَّقي</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">فأيبسَهُ اللَّهُ في كفِّهِ</shatr>
+          <shatr id="2">على رُغْمهِ الجائرِ الأَحمقِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">أُحَيْمِقِ مَخْزومِكم إذ غَوى</shatr>
+          <shatr id="2">لغَيٍّ الغُواة ِ ولم يَصدُقِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="40">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>منعنا الرسول رسول المليك</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="5">
+        <line id="1">
+          <shatr id="1">مَنَعْنا الرسولَ رَسولَ المليكِ</shatr>
+          <shatr id="2">ببيضٍ تَلألأُ لمعَ البُروقِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">بضربٍ يُذَبِّبُ دونَ النِّهابِ</shatr>
+          <shatr id="2">حِذارَ الوثائرِ والخَنْفَقيقِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أذُبُّ وأحمي رسولَ المليكِ</shatr>
+          <shatr id="2">حماية َ حانٍ عليهِ شفيقِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وما إنْ أدُبُّ لأعدائهِ</shatr>
+          <shatr id="2">دَبيبَ البِكارِ حِذارَ الفَنيقِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">ولكنْ أزيرُ لهُمْ ساميا</shatr>
+          <shatr id="2">كما زار ليثٌ بِغيلٍ مَضيقِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="41">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إن الوثيقة في لزوم محمد</title>
+      <qafya>ا</qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">إنَّ الوثيقَة في لزومِ محمَّدٍ</shatr>
+          <shatr id="2">فاشْدُدْ بصُحبتهِ على يَدَيكا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="42">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>محمد تفد نفسك كل نفس</title>
+      <qafya>ا</qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">محمدُ تَفْدِ نفسَكَ كلُّ نفسٍ</shatr>
+          <shatr id="2">إذا ما خِفْتَ من شيءٍ تَبالا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="43">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أمن أجل حبل ذي رمام علوته</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="3">
+        <line id="1">
+          <shatr id="1">أمِن أجلِ حبلٍ ذي رِمامٍ عَلَوْتَهُ</shatr>
+          <shatr id="2">بِمِنْسَأة ٍ قد جاءَ حَبلٌ وأَحْبُلُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">هَلمَ إلى حُكمِ ابنِ صَخْرة َ إنَّهُ</shatr>
+          <shatr id="2">سَيَحكمُ فيما بيْنَنَا، ثمَّ يعْدِلُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">كما كانَ يَقْضي في أمورٍ تَنُوبُنا</shatr>
+          <shatr id="2">فيَعْمِدُ للأمرِ الجميلِ ويَفْصِلُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="44">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>وعربة  دار لا يحل حرامها</title>
+      <qafya></qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">وعَرْبة ُ دارٌ لا يُحِلُّ حَرامها</shatr>
+          <shatr id="2">منَ الناسِ إلا اللَّوْذَعيُّ الحُلاحِلُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="45">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>قل لمن كان من كنانة  في العز</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="3">
+        <line id="1">
+          <shatr id="1">قلْ لِمَن كانَ مِن كنانَة َ في العزْ</shatr>
+          <shatr id="2">ـزِ وأهلِ النَّدى وأهلِ الفَعالِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">قَد أتاكُمْ منَ المَليكِ رسولُ</shatr>
+          <shatr id="2">فاقبلوهُ بصالحِ الأعمالِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فاقْبَلوا أحمداً؛ فإنَّ منَا  لل</shatr>
+          <shatr id="2">ـهِ رداءً عليهِ غيرَ مُذالِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="46">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>خليلي ما أذني لأول عاذل</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="110">
+        <line id="1">
+          <shatr id="1">خليليَّ ما أُذْني لأوَّلِ عاذلِ</shatr>
+          <shatr id="2">بِصَغْواءَ في حقٍّ ولا عندَ باطلِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">خليليَّ إنَّ الرأيَ ليسَ بِشِركة ٍ</shatr>
+          <shatr id="2">ولا نَهْنَهٍ عندَ الأمورِ البَلابلِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">ولمّا رأيتُ القومَ لا وُدَّ عندَهُمْ</shatr>
+          <shatr id="2">وقد قَطَعوا كلَّ العُرى والوَسائلِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وقد صارحونا بالعداوة ِ والأذى</shatr>
+          <shatr id="2">وقد طاوَعوا أمرَ العدوِّ المُزايلِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وقد حالَفُوا قوما علينا أظِنَّة ً</shatr>
+          <shatr id="2">يعضُّون غيظا خَلفَنا بالأناملِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">صَبرتُ لهُمْ نَفسي بسمراءَ سَمحة ٍ</shatr>
+          <shatr id="2">وأبيضَ عَضْبٍ من تُراث المقاوِلِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">وأحْضَرتُ عندَ البيتِ رَهْطي وإخوتي</shatr>
+          <shatr id="2">وأمسكتُ من أثوابهِ بالوَصائلِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">قياما معا مستقبلين  رِتاجَهُ</shatr>
+          <shatr id="2">لدَى حيثُ يَقضي نُسْكَهُ كلُّ نافلِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وحيثُ يُنِيخُ الأشعرونَ ركابَهُم</shatr>
+          <shatr id="2">بِمَفْضَى السُّيولِ من أسافٍ ونائلِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">مُوسَّمَة َ الأعضادِ أو قَصَراتِها</shatr>
+          <shatr id="2">مُخيَّسة ً بين السَّديس وبازِلِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">تَرى الوَدْعَ فيها والرُّخامَ وزينة ً</shatr>
+          <shatr id="2">بأعناقِها معقودة ً كالعثاكلِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">أعوذُ بربِّ النَّاسِ من كلِّ طاعِنٍ</shatr>
+          <shatr id="2">عَلينا بسوءٍ أو مُلِحٍّ بباطلِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">ومِن كاشحٍ يَسْعى لنا بمعيبة ٍ</shatr>
+          <shatr id="2">ومِن مُلحِقٍ في الدِّين ما لم نُحاولِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">وثَوْرٍ ومَن أرسى ثَبيراً مَكانَه</shatr>
+          <shatr id="2">وعَيْرٍ، وراقٍ في حِراءٍ ونازلِ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">وبالبيتِ رُكنِ البيتِ من بطنِ مكَّة ٍ</shatr>
+          <shatr id="2">وباللَّهِ إنَّ اللهَ ليس بغافلِ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">وبالحَجَرِ المُسْودِّ إذ يَمْسَحونَهُ</shatr>
+          <shatr id="2">إذا اكْتَنَفوهُ بالضُّحى والأصائلِ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">ومَوطِىء إبراهيمَ في الصَخرِ رَطَبة َ</shatr>
+          <shatr id="2">على قَدميهِ حافياً غيرَ ناعلِ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">وأَشواطِ بَينَ المَرْوَتَينِ إلى الصَّفا</shatr>
+          <shatr id="2">وما فيهما من صورة ٍ وتَماثِلِ</shatr>
+        </line>
+        <line id="19">
+          <shatr id="1">ومن حجَّ بيتَ اللَّهِ من كلِّ راكبٍ</shatr>
+          <shatr id="2">ومِن كلِّ ذي نَذْرٍ ومِن كلِّ راجلِ</shatr>
+        </line>
+        <line id="20">
+          <shatr id="1">وبالمَشْعَرِ الأقصى  إذا عَمدوا لهُ</shatr>
+          <shatr id="2">إلالٍ إلى مَفْضَى الشِّراج القوابلِ</shatr>
+        </line>
+        <line id="21">
+          <shatr id="1">وتَوْقافِهم فوقَ الجبالِ عشيَّة ً</shatr>
+          <shatr id="2">يُقيمون بالأيدي صُدورَ الرَّواحِلِ</shatr>
+        </line>
+        <line id="22">
+          <shatr id="1">وليلة ِ جَمعٍ والمنازلُ مِن مِنى ً</shatr>
+          <shatr id="2">وما فَوقَها من حُرمة ٍ ومَنازلِ</shatr>
+        </line>
+        <line id="23">
+          <shatr id="1">وجَمعٍ إذا ما المَقْرُباتُ أجزْنَهُ</shatr>
+          <shatr id="2">سِراعاً كما يَفْزَعْنَ مِن وقعِ وابِلِ</shatr>
+        </line>
+        <line id="24">
+          <shatr id="1">وبالجَمْرَة ِ الكُبرى إذا صَمدوا لها</shatr>
+          <shatr id="2">يَؤمُّونَ قَذْفاً رأسَها بالجنادلِ</shatr>
+        </line>
+        <line id="25">
+          <shatr id="1">وكِنْدَة ُ إذْ هُم بالحِصابِ عَشِيَّة ً</shatr>
+          <shatr id="2">تُجيزُ بهمْ حِجاجَ بكرِ بنِ وائلِ</shatr>
+        </line>
+        <line id="26">
+          <shatr id="1">حَليفانِ شَدَّا عِقْدَ ما اجْتَمعا لهُ</shatr>
+          <shatr id="2">وردَّا عَليهِ عاطفاتِ الوسائلِ</shatr>
+        </line>
+        <line id="27">
+          <shatr id="1">وحَطْمُهمُ سُمْرَ الرِّماحِ معَ الظُّبا</shatr>
+          <shatr id="2">وإنفاذُهُم ما يَتَّقي كلُّ نابلِ</shatr>
+        </line>
+        <line id="28">
+          <shatr id="1">ومَشئْيُهم حولَ البِسالِ وسَرْحُهُ</shatr>
+          <shatr id="2">وشِبْرِقُهُ وَخْدَ النَّعامِ الجَوافلِ</shatr>
+        </line>
+        <line id="29">
+          <shatr id="1">فهل فوقَ هذا مِن مَعاذٍ لعائذٍ</shatr>
+          <shatr id="2">وهَل من مُعيذٍ يَتَّقي اللَّهَ عادِلِ؟</shatr>
+        </line>
+        <line id="30">
+          <shatr id="1">يُطاعُ بنا الأعدا وودُّا لو أنَّنا</shatr>
+          <shatr id="2">تُسَدُّ بنا أبوابُ تُركٍ وكابُلِ</shatr>
+        </line>
+        <line id="31">
+          <shatr id="1">كذَبْتُمْ وبيتِ اللَّهِ نَتْركَ مكَّة ً</shatr>
+          <shatr id="2">ونظعَنَ إلاَّ أمرُكُم في بَلابلِ</shatr>
+        </line>
+        <line id="32">
+          <shatr id="1">كَذَبْتُم وبيتِ اللَّهِ نُبَزى محمدا</shatr>
+          <shatr id="2">ولمّا نُطاعِنُ دونَهُ ونُناضِلِ</shatr>
+        </line>
+        <line id="33">
+          <shatr id="1">ونُسْلِمَه حتى نُصَرَّعَ حَوْلَهُ</shatr>
+          <shatr id="2">ونَذْهُلَ عن أبنائِنا والحَلائلِ</shatr>
+        </line>
+        <line id="34">
+          <shatr id="1">وينهضَ قَومٌ في الحديدِ إليكُمُ</shatr>
+          <shatr id="2">نُهوضَ الرَّوايا تحتَ ذاتِ الصَّلاصِل</shatr>
+        </line>
+        <line id="35">
+          <shatr id="1">وحتَّى يُرى ذو الضِّغْنِ يركبُ رَدْعَهُ</shatr>
+          <shatr id="2">منَ الطَّعنِ فِعلَ الأنكَبِ المُتَحامِل</shatr>
+        </line>
+        <line id="36">
+          <shatr id="1">وإنِّي لعَمرُ اللَّهِ إنْ جَدَّ ما أرى</shatr>
+          <shatr id="2">لَتَلْتَبِسَنْ أَسيافُنا بالأماثلِ</shatr>
+        </line>
+        <line id="37">
+          <shatr id="1">بكفِّ امرئٍ مثلِ الشِّهابِ سَمَيْدَع</shatr>
+          <shatr id="2">أخي ثِقَة ٍ حامي الحقيقة ِ باسلِ</shatr>
+        </line>
+        <line id="38">
+          <shatr id="1">شُهورا وأيّاما وحَولاً مُجرَّما</shatr>
+          <shatr id="2">عَلينا وتأتي حِجَّة ٌ بعدَ قابلِ</shatr>
+        </line>
+        <line id="39">
+          <shatr id="1">وما تَرْكُ قَومٍ، لاأبالك، سَيِّدا</shatr>
+          <shatr id="2">يَحوطُ الذِّمارَ غَيرَ ذَرْب مُواكلِ؟</shatr>
+        </line>
+        <line id="40">
+          <shatr id="1">وأبيضَ يُسْتَسْقَى الغَمامُ بوجههِ</shatr>
+          <shatr id="2">ثِمالُ اليتامى عِصْمة ٌ للأراملِ</shatr>
+        </line>
+        <line id="41">
+          <shatr id="1">يلوذُ به الهُلاّكُ من آلِ هاشمٍ</shatr>
+          <shatr id="2">فهُم عندَهُ في نِعمة ٍ وفَواضلِ</shatr>
+        </line>
+        <line id="42">
+          <shatr id="1">لعَمري لقد أجرى أُسَيْدٌ ورهطُهُ</shatr>
+          <shatr id="2">إلى بُعضِنا وجزَّآنا لآكلِ</shatr>
+        </line>
+        <line id="43">
+          <shatr id="1">جزَتْ رحِمٌ عنَّا أُسَيداً وخالداً</shatr>
+          <shatr id="2">جزاءَ مُسيءٍ لا يُؤخَّرُ عاجِلِ</shatr>
+        </line>
+        <line id="44">
+          <shatr id="1">وعثمانُ لم يَرْبَعْ عَلينا وقُنْفُذٌ</shatr>
+          <shatr id="2">ولكنْ أطاعا أمرَ تلك القبائلِ</shatr>
+        </line>
+        <line id="45">
+          <shatr id="1">أطاعا أُبيّا وابنَ عبدِ يَغوثِهم</shatr>
+          <shatr id="2">ولم يَرْقُبا فينا مقالَة َ قائلِ</shatr>
+        </line>
+        <line id="46">
+          <shatr id="1">كما قَد لَقِينا من سُبَيعٍ ونَوفَلٍ</shatr>
+          <shatr id="2">وكلُّ تَوَلَّى مُعرضاً لم يُجاملِ</shatr>
+        </line>
+        <line id="47">
+          <shatr id="1">فإن يُلْقَيا أو يُمكنَ اللهُ منهما</shatr>
+          <shatr id="2">نَكِلْ لهُما صاعاً بكَيْلِ المُكايلِ</shatr>
+        </line>
+        <line id="48">
+          <shatr id="1">وذاكَ أبو عمرٍو أبى غيرَ بُغضِنا</shatr>
+          <shatr id="2">لِيَظْعَننا في أهلِ شاءٍ وجاملِ</shatr>
+        </line>
+        <line id="49">
+          <shatr id="1">يُناجَى بنا في كلِّ مَمْسى ً ومُصْبِحٍ</shatr>
+          <shatr id="2">فناجِ أبا عَمْرٍو بنا ثمَّ خاتِلِ</shatr>
+        </line>
+        <line id="50">
+          <shatr id="1">ويُقْسِمُنا باللهِ ما أن يَغُشَّنا</shatr>
+          <shatr id="2">بلى قد نراهُ جَهرة ً غيرَ حائلِ</shatr>
+        </line>
+        <line id="51">
+          <shatr id="1">أضاقَ عليهِ بُغْضَنا كلَّ تَلْعة ٍ</shatr>
+          <shatr id="2">منَ الأرض بينَ أخشُبٍ فمَجادلِ</shatr>
+        </line>
+        <line id="52">
+          <shatr id="1">وسائلْ أبا الوليدِ: ماذا حَبَوْتَنا</shatr>
+          <shatr id="2">بسَعْيِكَ فينا مُعْرِضا كالمُخاتِلِ؟</shatr>
+        </line>
+        <line id="53">
+          <shatr id="1">وكنتَ امرأً ممَّنْ يُعاشُ برأيهِ</shatr>
+          <shatr id="2">ورحمتُه فينا ولستَ بجاهلِ</shatr>
+        </line>
+        <line id="54">
+          <shatr id="1">أَعُتْبة ُ، لا تَسمعْ بنا قولَ كاشِحٍ</shatr>
+          <shatr id="2">حَسودٍ كذوبٍ مُبغِضٍ ذي دَغاوُلِ</shatr>
+        </line>
+        <line id="55">
+          <shatr id="1">وقد خِفْتُ إنْ لم تَزْجُرَنْهُمْ وتَرْعَووا</shatr>
+          <shatr id="2">تُلاقي ونَلْقَى منك إحْدَى البَلابلِ</shatr>
+        </line>
+        <line id="56">
+          <shatr id="1">ومَرَّ أبو سُفيانَ عنِّيَ مُعْرضا</shatr>
+          <shatr id="2">كما مَرَّ قَيْلٌ مِن عِظامِ المَقاوِلِ</shatr>
+        </line>
+        <line id="57">
+          <shatr id="1">يَفرُّ إلى نَجدٍ وبَرْدِ مياههِ</shatr>
+          <shatr id="2">ويَزْعمُ أنِّي لستُ عنكُم بغافلِ</shatr>
+        </line>
+        <line id="58">
+          <shatr id="1">وأَعلمُ أنْ لا غافلٌ عن مَساءَة ٍ</shatr>
+          <shatr id="2">كفاك العدوُّ عندَ حقٍّ وباطلِ</shatr>
+        </line>
+        <line id="59">
+          <shatr id="1">فميلوا عَلينا كُّلكُمْ؛ إنَّ مَيْلَكُمْ</shatr>
+          <shatr id="2">سَواءٌ علينا والرياحُ بهاطلِ</shatr>
+        </line>
+        <line id="60">
+          <shatr id="1">يخبِّرُنا فِعلَ المُناصِح أنَّهُ</shatr>
+          <shatr id="2">شَفيقٌ ويُخفي عارماتِ الدَّواخلِ</shatr>
+        </line>
+        <line id="61">
+          <shatr id="1">أمُطعِمُ لم أخذُلْكَ في يومِ نجدة ٍ</shatr>
+          <shatr id="2">ولا عندَ تلك المُعْظماتِ الجِلائلِ</shatr>
+        </line>
+        <line id="62">
+          <shatr id="1">ولا يومِ خَصمٍ إذْ أتَوْكَ ألدَّة ٍ</shatr>
+          <shatr id="2">أُولي جَدَلٍ من الخُصومِ المُساجِلِ</shatr>
+        </line>
+        <line id="63">
+          <shatr id="1">أمطعمٌ إنَّ القومَ ساموك خَطَّة ً</shatr>
+          <shatr id="2">وإنَّي متى أُوكَلْ فلستُ بوائلِ</shatr>
+        </line>
+        <line id="64">
+          <shatr id="1">جَزى اللهُ عنّا عبدَ شَمسٍ ونَوفلاً</shatr>
+          <shatr id="2">عُقوبة َ شَرٍّ عاجلاً غيرَ آجِلِ</shatr>
+        </line>
+        <line id="65">
+          <shatr id="1">بميزانِ قِسْطٍ لا يَغيضُ شَعيرة ً</shatr>
+          <shatr id="2">له شاهدٌ مِن نفسهِ حقُّ عادلِ</shatr>
+        </line>
+        <line id="66">
+          <shatr id="1">لقد سَفَهتْ أحلامُ قَومٍ تبدَّلوا</shatr>
+          <shatr id="2">بَني خَلَفٍ قَيضا بنا والغَياطلِ</shatr>
+        </line>
+        <line id="67">
+          <shatr id="1">ونحنُ الصَّميمُ مِن ذُؤابة ِ هاشمٍ</shatr>
+          <shatr id="2">وآلِ قُصَيٍّ في الخُطوبِ الأوائلِ</shatr>
+        </line>
+        <line id="68">
+          <shatr id="1">وكانَ لنا حوضُ السِّقاية ِ فيهمِ</shatr>
+          <shatr id="2">ونحنُ الذُّرى منُهمْ وفوقَ الكواهلِ</shatr>
+        </line>
+        <line id="69">
+          <shatr id="1">فما أدركوا ذَخْلاً ولا سَفكوا دَماً</shatr>
+          <shatr id="2">ولا حَالفوا إلاَّ شِرارَ القبائلِ</shatr>
+        </line>
+        <line id="70">
+          <shatr id="1">بَني أمَّة ٍ مجنونة ٍ هِنْدَكيَّة ٍ</shatr>
+          <shatr id="2">بَني جُمَحٍ عُبَيدَ قَيسِ بنِ عاقلِ</shatr>
+        </line>
+        <line id="71">
+          <shatr id="1">وسهمٌ ومخزومٌ تَمالَوا وألَّبُوا</shatr>
+          <shatr id="2">عَلينا العِدا من كلِّ طِمْلٍ وخاملِ</shatr>
+        </line>
+        <line id="72">
+          <shatr id="1">وشائظُ كانت في لؤيِّ بنِ غالبٍ</shatr>
+          <shatr id="2">نفاهُمْ إلينا كلُّ صَقْر حُلاحِل</shatr>
+        </line>
+        <line id="73">
+          <shatr id="1">ورَهْطُ نُفَيلٍ شرُّ مَن وَطىء َ الحصى</shatr>
+          <shatr id="2">وأَلأَمُ حافٍ من معدٍّ وناعلِ</shatr>
+        </line>
+        <line id="74">
+          <shatr id="1">أعبدَ منافٍ أنْتُمو خيرُ قَومِكُمْ</shatr>
+          <shatr id="2">فلا تُشْرِكوا في أمرِكم كلَّ واغلِ</shatr>
+        </line>
+        <line id="75">
+          <shatr id="1">فقد خِفتُ إنْ لم يُصْلحِ اللهُ أمْرَكُمْ</shatr>
+          <shatr id="2">تكونوا كما كانَتْ أحاديثُ وائلِ</shatr>
+        </line>
+        <line id="76">
+          <shatr id="1">لَعَمري لقَدْ أُوْهِنْتُمو وعَجزتُموْ</shatr>
+          <shatr id="2">وجِئتُمْ بأمرٍ مُخطىء ٍ للمَفاصلِ</shatr>
+        </line>
+        <line id="77">
+          <shatr id="1">وكُنْتُمْ قَديماً حَطْبَ قِدْرٍ فأنتمو</shatr>
+          <shatr id="2">أَلانَ حِطابُ أقدُرٍ ومَراجِلِ</shatr>
+        </line>
+        <line id="78">
+          <shatr id="1">لِيهْنئْ بَني عبدِ منافٍ عُقوقُها</shatr>
+          <shatr id="2">وخَذْلانُها، وتَرْكُنا في المعاقلِ</shatr>
+        </line>
+        <line id="79">
+          <shatr id="1">فإنْ يكُ قَومٌ سرَّهُمْ ما صَنَعْتُمو</shatr>
+          <shatr id="2">ستحتلبوها لاقحاً غيرَ باهلِ</shatr>
+        </line>
+        <line id="80">
+          <shatr id="1">فبلِّغْ قُصَيّا أنْ سَيُنْشَرُ أمرُنا</shatr>
+          <shatr id="2">وبَشِّرْ قُصيًّا بعدَنا بالتَّخاذُلِ</shatr>
+        </line>
+        <line id="81">
+          <shatr id="1">ولو طَرقتْ ليلاً قُصيّاً عَظيمة ٌ</shatr>
+          <shatr id="2">إذا ما لجأنا دونَهُم في المداخلِ</shatr>
+        </line>
+        <line id="82">
+          <shatr id="1">ولو صُدقوا ضَرباً خلالَ بُيوتِهم</shatr>
+          <shatr id="2">لكنَّا أُسى ً عندَ النَّساءِ المَطافلِ</shatr>
+        </line>
+        <line id="83">
+          <shatr id="1">فإنْ تكُ كعبٌ من لؤيٍّ تجمَّعتْ</shatr>
+          <shatr id="2">فلا بُدَّ يوما مرَّة ً مِنْ تَزايُلِ</shatr>
+        </line>
+        <line id="84">
+          <shatr id="1">وإنْ تَكُ كعبٌ من كعوبٍ كثيرة ٍ</shatr>
+          <shatr id="2">فلا بدَّ يوما أنَّها في مَجاهِلِ</shatr>
+        </line>
+        <line id="85">
+          <shatr id="1">وكلُّ صديقٍ وابنُ أختٍ نَعُدُّهُ</shatr>
+          <shatr id="2">وجدْنا لعَمري غِبَّهُ غيرَ طائلِ</shatr>
+        </line>
+        <line id="86">
+          <shatr id="1">سِوى أنَّ رَهْطاً مِن كلابِ بنِ مُرَّة ٍ</shatr>
+          <shatr id="2">بَراءٌ إلينا من معقَّة ِ خاذلِ</shatr>
+        </line>
+        <line id="87">
+          <shatr id="1">بَني أسَدٍ لا تُطرِفُنَّ على القَذى</shatr>
+          <shatr id="2">إذا لم يقلْ بالحقِّ مِقْوَلُ قائلِ</shatr>
+        </line>
+        <line id="88">
+          <shatr id="1">فنعْمَ ابنُ أختِ القَومِ غيرَ مُكذَّبٍ</shatr>
+          <shatr id="2">زُهيرٌ حُساما مُفردا مِن حَمائلِ</shatr>
+        </line>
+        <line id="89">
+          <shatr id="1">أَشَمُّ منَ الشُّمِّ البهاليلِ يَنْتَمي</shatr>
+          <shatr id="2">إلى حَسبٍ في حَوْمة ِ المَجْدِ فاضلِ</shatr>
+        </line>
+        <line id="90">
+          <shatr id="1">لعَمري لقد كَلِفْتُ وَجْدا بأحمدٍ</shatr>
+          <shatr id="2">وإخوتهِ دأبَ المحبِّ المُواصِلِ</shatr>
+        </line>
+        <line id="91">
+          <shatr id="1">أقيمُ على نصرِ النبيِّ محمدٍ</shatr>
+          <shatr id="2">أقاتلُ عنهُ بالقَنا والقنابلِ</shatr>
+        </line>
+        <line id="92">
+          <shatr id="1">فلا زالَ في الدُّنيا جَمالاً لأهلِها</shatr>
+          <shatr id="2">وزَينا لم ولاَّهُ رَبُّ المشاكِلِ</shatr>
+        </line>
+        <line id="93">
+          <shatr id="1">فمَنْ مثلُهُ في النَّاسِ أيُّ مؤمَّلٍ</shatr>
+          <shatr id="2">إذا قاسَه الحكَّامُ عندَ التَّفاضُلِ</shatr>
+        </line>
+        <line id="94">
+          <shatr id="1">حليمٌ رشيدٌ عادلٌ غيرُ طائشٍ</shatr>
+          <shatr id="2">يُوالي إلها ليسَ عنهُ بغافلِ</shatr>
+        </line>
+        <line id="95">
+          <shatr id="1">فأيَّدَه ربُّ العبّادِ بنصرهِ</shatr>
+          <shatr id="2">وأظهرَ دَينا حقُّه غيرُ ناصلِ</shatr>
+        </line>
+        <line id="96">
+          <shatr id="1">فو اللهِ لولا أن أَجيءَ بسُبَّة ٍ</shatr>
+          <shatr id="2">تَجُرُّ على أشياخنا في المَحافلِ</shatr>
+        </line>
+        <line id="97">
+          <shatr id="1">لكنَّا اتَّبعْناهُ على كلِّ حالة ٍ</shatr>
+          <shatr id="2">منَ الدَّهرِ جِدا غيرَ قَولِ التَّهازُلِ</shatr>
+        </line>
+        <line id="98">
+          <shatr id="1">لقد عَلموا أنَّ ابْنَنا لا مُكذَّبٌ</shatr>
+          <shatr id="2">لَدَيهم ولا يُعْنى َ بقَوْلِ الأباطلِ</shatr>
+        </line>
+        <line id="99">
+          <shatr id="1">رجالٌ كِرامٌ غيرُ مِيلٍ نَماهُمو</shatr>
+          <shatr id="2">إلى الغُرِّ آباءٌ كرامُ المَخاصلِ</shatr>
+        </line>
+        <line id="100">
+          <shatr id="1">دَفَعناهُمو حتَّى تَبدَّدَ جَمعُهُمْ</shatr>
+          <shatr id="2">وحسَّرَ عنّا كلُّ باغٍ وجاهلِ</shatr>
+        </line>
+        <line id="101">
+          <shatr id="1">شَبابٌ منَ المُطَيَّبين وهاشمٍ</shatr>
+          <shatr id="2">كبيضِ السُّيوفِ بينَ أيدي الصَّياقلِ</shatr>
+        </line>
+        <line id="102">
+          <shatr id="1">بِضَربٍ تَرى الفتيانَ فيهِ كأنَّهُم</shatr>
+          <shatr id="2">ضَواري أسودٍ فوقَ لحمٍ خَرادلِ</shatr>
+        </line>
+        <line id="103">
+          <shatr id="1">ولكنَّنا نسلٌ كرامٌ لسادة ٍ</shatr>
+          <shatr id="2">بهم نَعْتلي الأقوامَ عندَ التَّطاوُلِ</shatr>
+        </line>
+        <line id="104">
+          <shatr id="1">سَيَعْلمُ أهلُ الضِّغْنِ أيِّي وأيُّهُمْ</shatr>
+          <shatr id="2">يفوزُ ويعلو في ليالٍ قلائلِ</shatr>
+        </line>
+        <line id="105">
+          <shatr id="1">وأيُّهُمو منِّي ومنْهُم بسيفهِ</shatr>
+          <shatr id="2">يُلاقي إذا ما حانَ وقتُ التَّنازُلِ</shatr>
+        </line>
+        <line id="106">
+          <shatr id="1">ومَنْ ذا يمَلُّ الحربَ مني ومِنْهمو</shatr>
+          <shatr id="2">ويحمدُ في الاڑفاقِ مِن قَولِ قائلِ؟</shatr>
+        </line>
+        <line id="107">
+          <shatr id="1">فأصبحَ فينا أحمدٌ في أُرومة ٍ</shatr>
+          <shatr id="2">تُقصِّرُ عنها سَورة ُ المُتَطاوِلِ</shatr>
+        </line>
+        <line id="108">
+          <shatr id="1">كأنَّي به فوقَ الجيادِ يقودُها</shatr>
+          <shatr id="2">إلى معشرٍ زاغوا إلى كلِّ باطلِ</shatr>
+        </line>
+        <line id="109">
+          <shatr id="1">وجُدْتُ نفسي دونَهُ وحَمَيتُهُ</shatr>
+          <shatr id="2">ودافَعْتُ عنه بالطُّلى والكلاكلِ</shatr>
+        </line>
+        <line id="110">
+          <shatr id="1">ولا شَكَّ أنَّ اللهَ رافعُ أمرِهِ</shatr>
+          <shatr id="2">ومُعليهِ في الدُّنيا ويومَ التَّجادُلِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="47">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>حتى متى نحن على فترة </title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="9">
+        <line id="1">
+          <shatr id="1">حتَّى مَتى نحنُ على فَتْرة ٍ</shatr>
+          <shatr id="2">يا هاشمٌ والقومُ في جَحفَلِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">يَدْعونَ بالخَيلِ لَدى رَقْبة ٍ</shatr>
+          <shatr id="2">منّا لدَى الخَوفِ وفي مَعزِلِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">كالرّجلة ِ السَّوداءِ تَغلو بها</shatr>
+          <shatr id="2">سَرَعانُها في سَبْسَبٍ مَجْهَلِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">عليهِمُ التَّرْكُ على رَعْلة ٍ</shatr>
+          <shatr id="2">مثلَ القطا القاربِ للمَنْهلِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">يا قَومُ ذُودوا عن جَماهيرِكُم</shatr>
+          <shatr id="2">بكلِّ مِقصالٍ على مُسْبِلِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">حَديدِ خَمْسٍ لَهْزٌ حدُّهُ</shatr>
+          <shatr id="2">مآرثُ الأفضَلِ للأفضلِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">عريضِ سِتٍّ لَهَبٌ حُضرُهُ</shatr>
+          <shatr id="2">يُصانُ بالتَّذْليقِ في مِجْدَلِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">فكَمْ شَهِدتُ الحربَ في فِتية ٍ</shatr>
+          <shatr id="2">عندَ الوغى في عِثْيَرِ القَسْطلِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">لا مُتَنحِّينَ إذا جئتَهُمْ</shatr>
+          <shatr id="2">وفي هِياجِ الحربِ كالأشْبُلِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="48">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا أبلغا عني لؤيا رسالة </title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="18">
+        <line id="1">
+          <shatr id="1">ألا أَبْلغا عنِّي لؤيًّا رسالة ً</shatr>
+          <shatr id="2">بحقٍّ، وما تُغْني رسالة ُ مُرسِلِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">بني عمِّنا الأدْنَينَ تَيماً نَخُصُّهم</shatr>
+          <shatr id="2">وإخوانَنا من عبدِ شمسٍ ونَوْفلِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أَظاهَرْتُموا قَوماً علينا أظِنَّة ً</shatr>
+          <shatr id="2">وأمْرَ غَويٍّ مِن غُواة ٍ وَجُهَّلِ؟</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">يقولون: إنّا إنْ قَتَلنا محمَّداً</shatr>
+          <shatr id="2">أَقَرَّتْ نَواصي هاشمٍ بالتَّذلُّلِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">كذَبْتُم وبيتِ اللهِ يُثلمُ رُكنُهُ</shatr>
+          <shatr id="2">ومكَّة َ والإشعارِ في كلِّ مَعمَلِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وبالحجِّ أو بالنِّيبِ تَدمى نحورُها</shatr>
+          <shatr id="2">بمدماهُ والرُّكنِ العتيقِ المقبَّلِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">تَنالونَه أو تَعطفوا دونَ نَيلِه</shatr>
+          <shatr id="2">صَوارِمُ تَفْري كلَّ عَظمٍ ومِفصلِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">وتَدعوا بأرحامٍ وأنتُم ظَلَمتموا</shatr>
+          <shatr id="2">مصاليتَ في يومٍ أغرَّ مُحجَّلِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">فَمهلاً ولمَّا تَنْتَجِ الحربُ بِكرَها</shatr>
+          <shatr id="2">يبينُ تِمامٌ أو تأخُّرُ مُعجَلِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">فإنّا مَتى ما نَمْرِها بسيوفنا</shatr>
+          <shatr id="2">نُجَالحْ فنَعرُكْ مَن نَشاءُ بكلْكَلِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">وتَلْقَوْا ربيعَ الأبَطحينِ محمَّدا</shatr>
+          <shatr id="2">على رَبْوة ٍ في رأسِ عَيْطاءَ عَيْطَلِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">وتأوي إليهِ هاشمٌ إنَّ هاشماً</shatr>
+          <shatr id="2">عَرانينُ كعْبٍ آخراً بعدَ أوَّلِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فإنْ كُنْتُمو تَرْجُونَ قتلَ محمَّدٍ</shatr>
+          <shatr id="2">فَرُوموا بما جَمَّعتُمُ نَقْل يَذْبُلِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">فإنَّا سَنَحْميهِ بكلِّ طمرَّة ٍ</shatr>
+          <shatr id="2">وذي مَيْعة ٍ نَهْدِ المَراكلِ هَيكلِ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">وكُلِّ رُدَينيٍّ  ظِماءٍ كُعوبُهُ</shatr>
+          <shatr id="2">وعَضْبٍ كإيماض الغَمامة ِ مِقصَلِ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">وكُلِّ جَرورِ الذَّيلِ زَغْفٍ مُفاضة ٍ</shatr>
+          <shatr id="2">دِلاصِ كَهَزْهازِ الغَديرِ المُسَلْسَلِ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">بأيمانِ شُمٍّ مِن ذوائبِ هاشمٍ</shatr>
+          <shatr id="2">مَغاويلُ بالأخطار في كلِّ مَحْفلِ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">هُمو سادة ُ الساداتِ في كلِّ مَوطنٍ</shatr>
+          <shatr id="2">وخِيرة ُ ربِّ الناسِ في كُلِّ مُعضلِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="49">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>وإن امرأ أبو عتيبة  عمه</title>
+      <qafya>ا</qafya>
+      <type>قصيدة</type>
+      <lines number="9">
+        <line id="1">
+          <shatr id="1">وإنَّ امرأً أبو عُتيبة َ عَمُّهُ</shatr>
+          <shatr id="2">لَفِي رَوضَة ٍ ما إنْ يُسامُ المَظَالما</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أقولُ له، وأينَ منهُ نَصيحَتي:</shatr>
+          <shatr id="2">أبا معتبٍ ثَبِّتْ سَوادَكَ قائما</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فلا تَقْبَلنَّ الدَّهرَ ما عِشْتَ خُطَّة ً</shatr>
+          <shatr id="2">تُسَبُّ بها إمَّا هَبَطْتَ المَواسِما</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">ووَلِّ سَبيلَ العجزِ غَيْركَ مِنْهُمو</shatr>
+          <shatr id="2">فإنك لم تُخْلَقْ على العجز لازما</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وحارِبْ فإنَّ الحربَ نِصْفٌ، ولن ترى</shatr>
+          <shatr id="2">أَخا الحرب يُعطي الخَسْفَ حتَّى يُسالِما</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وكيفَ ولم يَجْنوا عليكَ عَظيمة ً</shatr>
+          <shatr id="2">ولم يَخْذُلوكَ غانماً أو مُغارِما؟</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">جَزَى الله عنَّا عبدَ شمسٍ ونَوْفلاً</shatr>
+          <shatr id="2">وتَيْماً ومَخْزوماً عُقوقاً ومَأثَما</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">بتَفريقِهم مِن بَعْدِ وُدٍّ وأُلفَة ٍ</shatr>
+          <shatr id="2">جَماعَتَنا كَيْما يَنَالوا المَحارِما</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">كذبْتُم وبيتِ اللهِ نُبْزَى محمداً</shatr>
+          <shatr id="2">ولمَّا تَروا يَوماً لدى الشِّعبِ قائما</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="50">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أرقت وقد تصوبت النجوم</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="16">
+        <line id="1">
+          <shatr id="1">أرِقْتَ وقد تصوَّبتِ النجومُ</shatr>
+          <shatr id="2">وبتَّ وما تُسالمُكَ الهُمومُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">لظلمِ عَشيرة ٍ ظَلموا وعَقُّوا</shatr>
+          <shatr id="2">وغِبُّ عقوقِهم كلأٌ وخِيمُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">همو اَنْتَهكوا المحارمَ من أخيهِمْ</shatr>
+          <shatr id="2">وليسَ لهُمْ بغيرِ أخٍ حَريمُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">إلى الرحمنِ والكرمِ استَذَمُّوا</shatr>
+          <shatr id="2">وكلُّ فَعالِهم دَنِسٌ ذَميمُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">بَنو تَيمٍ تُؤازرُهاهُصَيصٌ</shatr>
+          <shatr id="2">ومخزومٌ لها منّا قَسيمُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فلا تَنْهى غُواة َ بني هُصَيصٍ</shatr>
+          <shatr id="2">بَنو تَيمٍ وكلُّهمو عَديمُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">ومخزومٌ أقلُّ القَومِ حِلْماً</shatr>
+          <shatr id="2">إذا طاشَتْ من الورَهِ الحُلومُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">أطاعوا ابنَ المُغيرة ِ وابن حرْبٍ</shatr>
+          <shatr id="2">كلا الرَّجُلينِ مُتَّهِمٌ مُليمُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وقالوا خُطَّة ً جَوْراً وحُمْقاً</shatr>
+          <shatr id="2">وبعضُ القَولِ أبلجُ مُستَقيم</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">لَنُخْرِجُ هاشماً فيصيرُ منها</shatr>
+          <shatr id="2">بلاقعَ بَطنُ زمزَمَ والحَطيمُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">فمهلاً قَومَنا لا تَرْكبونا</shatr>
+          <shatr id="2">بِمَظْلَمة ٍ لها أمرٌ عَظيمُ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">فيندَمَ بعضُكُم ويذلَّ بعضٌ</shatr>
+          <shatr id="2">وليسَ بمُفْلحٍ أبداً ظَلومُ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فلا والرَّاقصاتِ بكلِّ خَرْقٍ</shatr>
+          <shatr id="2">إلى مَعْمورِ مكَّة َ لا نَريمُ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">طَوالَ الدَّهرِ حتَّى تقتلونا</shatr>
+          <shatr id="2">ونَقْتُلَكُمْ وتلتقيَ الخصوم</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">ويُصرعَ حولَهُ منَّا رجالٌ</shatr>
+          <shatr id="2">وتَمنعَهُ الخُؤولة ُ والعُمومُ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">ويَعْلمَ معشَرٌ ظَلموا وعَقُّوا</shatr>
+          <shatr id="2">بأنهموهُمُ الخدُّ اللَّطيمُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="51">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>سقى الله رهطا همو بالحجون</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="15">
+        <line id="1">
+          <shatr id="1">سَقى الله رَهطاً هُمو بالحُجونِ</shatr>
+          <shatr id="2">قِيامٌ وقَد هَجعَ النُّوَّمُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">قَضَوا ما قَضَوا في دُجى لَيْلهم</shatr>
+          <shatr id="2">ومُسْتَوسِنُ الناسِ لا يعلمُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">بَهاليلُ غُرٌّ لهمُ سَورَة ٌ</shatr>
+          <shatr id="2">يُداوَى بها الأَبْلحُ المُجْرِمُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">كشِبهِ المقاولِ عندَ الحُجو</shatr>
+          <shatr id="2">نِ بَلْ هُمْ أعزُّ وهُم أعظمُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">لدى رَجُل مُرشِدٍ، أمرُهُ</shatr>
+          <shatr id="2">إلى الحقِّ يَدعو ويستعصِمُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فلولا حِذاري نَثا سُبَّة ٍ</shatr>
+          <shatr id="2">يَشيدُ بها الحاسِدُ المُفْعَمُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">ورهبة َ عارٍ على أسْرتي</shatr>
+          <shatr id="2">إذا ما أتَى أرضنا المَوْسِمُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">لَتابعْتُه غيرَ ذي مِرْية ٍ</shatr>
+          <shatr id="2">ولو سِيءَ ذُو الرَّأيِ والمحرَمُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">كقولِ قُصيِّ، ألا أَقصروا</shatr>
+          <shatr id="2">ولا تَرْكبوا ما بهِ المأثَمُ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">فإنّا بمكة َ قِدْماً لنا</shatr>
+          <shatr id="2">بها العزُّ والخطَرُ الأَعظمُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">ومن يكُ فيها له عزَّة ٌ</shatr>
+          <shatr id="2">حديثاً فعزَّتُنا الأقدَمُ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">ونحنُ ببطحائها الراسبو</shatr>
+          <shatr id="2">نَ والقائدون ومَن يحكمُ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">نشأنا وكنّا قليلاً بها</shatr>
+          <shatr id="2">نُجيرُ وكنّا بها نُطعمُ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">إذا عضَّ أزْمُ السنينِ الأنامَ</shatr>
+          <shatr id="2">وحبَّ القُتارَ بها المُعْدِمُ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">نَمانَي شَيبة ُ ساقي الحجيجِ</shatr>
+          <shatr id="2">ومجدُ منيفُ الذُّرى مُعْلَمُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="52">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>إذا اجتمعت يوما قريش لمفخر</title>
+      <qafya>ا</qafya>
+      <type>قصيدة</type>
+      <lines number="8">
+        <line id="1">
+          <shatr id="1">إذا اجْتَمَعتْ يوماً قُريشُ لِمفْخرٍ</shatr>
+          <shatr id="2">فعبدُ مَنافٍ سِرُّها وصَمِيمُها</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فإنْ حُصِّلَتْ أشرافُ عبدِ مَنافِها</shatr>
+          <shatr id="2">فَفي هاشمٍ أَشْرافُها وقَديمُها</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فإنْ فَخرتْ يوماً، فإنَّ محمَّداً</shatr>
+          <shatr id="2">هوَ المُصْطفى مَن سِرُّها وكريُها</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">تَداعَتْ قُريشٌ: غَثُّها وسَمينُها</shatr>
+          <shatr id="2">عَلَيْنا فلم تَظْفَرْ وطاشَتْ حُلومُها</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">وكنّا قديماً لا نُقِرُّ ظُلامَة ً</shatr>
+          <shatr id="2">إذا ما ثَنَوْا صُعْرَ الخُدودِ نُقيمُها</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ونَحْمي حِماها كلَّ يومِ كَريهة ٍ</shatr>
+          <shatr id="2">ونَضْربُ عَن أحجارِها مَن يَرومُها</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">همُ السَّادة ُ الأعلَوْنَ في كلِّ حالة ٍ</shatr>
+          <shatr id="2">لهمُ صِرمَة ٌ لا يُسْتطاعُ قرومُها</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">يَدينُ لهُمْ كلُّ البريَّة ِ طاعَة ً</shatr>
+          <shatr id="2">ويُكرِمُهم مِلأرضِ عندِي أَديمُها</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="53">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>سميته بعلي كي يدوم له</title>
+      <qafya></qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">سَمَّيتُه بعليٍّ كي يدومَ له</shatr>
+          <shatr id="2">منَ العلوِّ وفخرُ العزِّ أدْوَمُهُ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="54">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>لمن أربع أقوين بين القدائم</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="20">
+        <line id="1">
+          <shatr id="1">لمن أرْبُعُ أقْويْنَ بين القدائمِ</shatr>
+          <shatr id="2">أقَمْن بمدْحاة ِ الِّرياحِ التَّوائمِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فكلَّفتُ عينيَّ البكاءَ وخِلُتني</shatr>
+          <shatr id="2">قدَ أَنْزَفْتُ دَمْعي اليومَ بينَ الأصارمِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">وكيفَ بكائي في الطَّلولِ وقد أتَتْ</shatr>
+          <shatr id="2">لها حِقَبٌ مُذْ فارقَتْ أمُّ عاصمِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">غفارَّية ً حَلَّتْ بِبَوْلانَ خَلَّة ُ</shatr>
+          <shatr id="2">فَيْنبعَ أوْ حَلَّتْ بِهضبِ الرَّجائمِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">فدَعْها فقد شطَّتْ بها غُربة ُ النَّوى</shatr>
+          <shatr id="2">وشِعْبٌ لشَتِّ الحيِّ غَيرُ مُلائمِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فبلِّغْ على الشَّحناءِ أفناءَ غالب</shatr>
+          <shatr id="2">لُؤيّاً وتَيماً عندَ نَصرِ الكرائمِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">بأنَّا سُيوفُ اللهِ والمجدِ كلَّهِ</shatr>
+          <shatr id="2">إذا كانَ صوتُ القومِ وحْيَ الغمائمِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">ألمْ تَعلمواأنَّ القطيعة َ مأَثَمٌ</shatr>
+          <shatr id="2">وأمرُ بلاءٍ قائمٍ غيرِ حازِمِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وأن سبيلَ الرُّشْدِ يُعلمُ في غَدٍ</shatr>
+          <shatr id="2">وأن نعيمَ الدِّهرِ ليسَ بدائمِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">فلا تَسْفَهنْ أحلامُكم في محمَّدٍ</shatr>
+          <shatr id="2">ولا تَتْبعوا أمر الغُواة ِ الأشائمِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">تَمنِّيتُمُ أن تقتلوهُ وإنَّما</shatr>
+          <shatr id="2">أمانِيُّكم هَذي كأحلامِ نائمِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">فإنَّكم واللهِ لا تَقْتلونَهُ</shatr>
+          <shatr id="2">ولمَّا تَرَوا قطفَ اللَّحى والغَلاصِمِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">ولم تُبْصروا الأحياءُ منكُم مَلاحماً</shatr>
+          <shatr id="2">تحومُ عليها الطَّيرُ بعدَ مَلاحمِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">وتَدَّعوا بأرحامٍ أواصرَ بَيْننا</shatr>
+          <shatr id="2">وقد قطعَ الأرحام وقعُ الصَّوارمِ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">وتَسمو بخيلٍ بعد خَيلٍ يَحثُّها</shatr>
+          <shatr id="2">إلى الرَّوعِ أبناءُ الكُهولِ القَماقمِ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">من البيضِ مفضالٌ أبيٌّ على العدا</shatr>
+          <shatr id="2">تمكَّنَ في الفرعَينِ في حيِّ هاشمِ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">أمينٌ محبٌّ في العبادِ مسوَّمٌ</shatr>
+          <shatr id="2">بخاتَمِ ربٍّ قاهرٍ للخَواتمِ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">يَرى الناسُ بُرهاناً عليهِ وهَيبة ً</shatr>
+          <shatr id="2">وما جاهلُ أمراً كآخر عالِمِ</shatr>
+        </line>
+        <line id="19">
+          <shatr id="1">نَبيٌّ أناهُ الوحيُ من عند رِّبهِ</shatr>
+          <shatr id="2">ومَن قال: لا، يَقْرَعْ بها سِنَّ نادم</shatr>
+        </line>
+        <line id="20">
+          <shatr id="1">تُطيفُ به جُرثومة ٌ هاشمية ٌ</shatr>
+          <shatr id="2">تُذَبِّبُ عنهُ كلَّ عاتٍ وظالمِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="55">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألا من لهم آخر الليل معتم</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="16">
+        <line id="1">
+          <shatr id="1">ألا مَن لهمٍّ آخر الليلِ مُعْتمِ</shatr>
+          <shatr id="2">طَواني، وأخْرى النَّجمِ لمَّا تَقَحَّمِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">طواني وقد نامتُ عُيونً كثيرة</shatr>
+          <shatr id="2">وسامرُ أخرى قاعدٌ لم يُنومِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لأحلامِ قَومٍ قد أرادوا محمّداً</shatr>
+          <shatr id="2">بظلمٍ ومن لا يَتقي الظُلمَ يُظلمِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">سَعَوا سَفَهاً واقتادَهُم سوءُ أمرِهمْ</shatr>
+          <shatr id="2">على قائلٍ من أمرهمْ غيرِ مُحكمِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">رَجاة َ أمورٍ لم ينالوا نِظامَها</shatr>
+          <shatr id="2">وإنْ نَشَدوا في كلِّ بَدوٍ ومَوْسمِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">تُرجُّونَ منَّا خُطَّة ً دونَ نَيْلِها</shatr>
+          <shatr id="2">ضِرابٌ وطَعْنٌ بالوشِيجِ المقَوَّمِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">تُرجُّون أنْ نَسخَى بقتْلِ محمدٍ</shatr>
+          <shatr id="2">ولم تختضبُ سُمرُ العوالي من الذَّمِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">كَذَبتُمْ وبيتِ الله حتى تَعرَّفوا</shatr>
+          <shatr id="2">جَماجمَ تُلقَى بالحَطيمِ وزَمْزَمِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">وتُقْطَعَ أرحامُوتَنْسى خَليلة ٌ</shatr>
+          <shatr id="2">حَليلاً ويُفشَى مَحْرَمٌ بَعْدَ مَحْرَمِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">وَ يُنهضَ قومٌ في الحديدِ إليكمو</shatr>
+          <shatr id="2">يَذُبُّون عن أحسابِهم كلَّ مُجْرِمِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">وظلمُ نبيٍّ جاءَ يدعو إلى الهُدى</shatr>
+          <shatr id="2">وأمرٌ أتى من عندِ ذي العرشِ قيِّمِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">همُ الأُسْدُ أُشْدُ الزّارتينِ إذا غدتْ</shatr>
+          <shatr id="2">على حَنقٍ لم يُخشَ إعلامُ مُعلمِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فيا لبني فِهْرٍ أَفيقوا، ولم نَقُمْ</shatr>
+          <shatr id="2">نوائحُ قَتْلى تدَّعي بالتَّندُّمِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">على ما مَضى من بَغْيِكُم وعُقوقِكُمْ</shatr>
+          <shatr id="2">وغشيانِكُمْ من أمرِنا كلَّ مَأثمِ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">فلا تَحسِبونا مُسْلميهِ، ومثلُهُ</shatr>
+          <shatr id="2">إذا كان في قومٍ فليس بمُسْلَمِ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">فهذي معاذيرٌ وتَقْدِمة ٌ لكُمْ</shatr>
+          <shatr id="2">لكي لا تكونَ الحربُ قبلَ التقدُّمِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="56">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ألم ترني من بعدهم هممته</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="20">
+        <line id="1">
+          <shatr id="1">ألم تَرَني مِن بعدِهَمِّ هَممْتُهُ</shatr>
+          <shatr id="2">بِفُرقَة ِ حُرٍّ مِن أبِينَ كِرامِ؟</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">بأحمدَ لمّا أنْ شَدَدْتُ مَطيّتي</shatr>
+          <shatr id="2">بِرحْلي وقَد ودَّعْتُه بسلامِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فلمّا بكى والعِيسُ قد قَلُصَتْ بنا</shatr>
+          <shatr id="2">وقد ناشَ بالكفْينِ ثِنْيَ زِمامِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">ذكرتُ أباه ثمَّ رقرقتُ عبرة ً</shatr>
+          <shatr id="2">تَجودُ من العنينِ ذاتَ سِجامِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">فقلتُ: تَرَحَّلْ راشداً في عُمومة ٍ</shatr>
+          <shatr id="2">مُواسِين في البأساءِ غيرِ لئامِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">وجاءَ مع العِيرِ التي راحَ رَكْبُها</shatr>
+          <shatr id="2">شَآمي الهوى والأصل غير شآمِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">فلمَّا هَبَطنا أرضَ بُصرى تَشوَّفوا</shatr>
+          <shatr id="2">لنا فَوقَ دورٍ يَنْظرونَ عِظامِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">فجاءَ بحَيرا عندَ ذلك حاشداً</shatr>
+          <shatr id="2">لنا بشرابِ طَيبٍ وطعامِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">فقالَ: اجمعُوا أصحابَكُم عندما رأى</shatr>
+          <shatr id="2">فقُلنا: جَمعْنا القومَ غير غُلام</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">يتيمٍ فقالَ: ادعوهُ إنَّ طعامَنا</shatr>
+          <shatr id="2">لهُ دُونَكُمْ من سُوقة ٍ وإمامِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">وآلى يمينا بَرَّة ً: إنَّ زادَنا</shatr>
+          <shatr id="2">كثيرٌ عليه اليومَ غيرُ حرامِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">فلولا الذي خَبَّرتمو عن محمدٍ</shatr>
+          <shatr id="2">لكنْتُمْ لدينا اليومَ غيرَ كِرامِ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">وأقبلَ رَكْبٌ يطلبونَ الذي رأى</shatr>
+          <shatr id="2">بَحيراءُ رأي العين وسْطَ خيامِ</shatr>
+        </line>
+        <line id="14">
+          <shatr id="1">فثارَ إليهمْ خشية ً لعُرامِهِمْ</shatr>
+          <shatr id="2">وكانوا ذوي بغيٍ معاً وعُرامِ</shatr>
+        </line>
+        <line id="15">
+          <shatr id="1">دَريسٌ وهَمَّامٌ، وقد كان فيهمو</shatr>
+          <shatr id="2">زَريرٌ وكلُّ القومِ غير نيامِ</shatr>
+        </line>
+        <line id="16">
+          <shatr id="1">فجاؤوا وقد هَمُّوا بقتلِ محمدٍ</shatr>
+          <shatr id="2">فردَّهُمو عنه بحُسمِ خِصامِ</shatr>
+        </line>
+        <line id="17">
+          <shatr id="1">بتأويلهِ التَّوراة َ حَتَّى تَيقَّنُوا</shatr>
+          <shatr id="2">وقالَ لهم: رُمْتُمْ أشدَّ مَرامِ</shatr>
+        </line>
+        <line id="18">
+          <shatr id="1">أَتَبغونَ قَتْلاً للنبيِّ محمَّدٍ؟</shatr>
+          <shatr id="2">خُصِصْتُم على شؤمٍ بطولِ أثامِ</shatr>
+        </line>
+        <line id="19">
+          <shatr id="1">وإنَّ الذي يختارهُُ منهُ مانعٌ</shatr>
+          <shatr id="2">سَيَكفيهِ منكمْ كيدَ كل طَغامِ</shatr>
+        </line>
+        <line id="20">
+          <shatr id="1">فذلك مِن أعلامِه وبَيانهِ</shatr>
+          <shatr id="2">وليس نِهارٌ واضحٌ كظلامِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="57">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أبكى العيون وأذرى دمعها دررا</title>
+      <qafya>؟</qafya>
+      <type>قصيدة</type>
+      <lines number="10">
+        <line id="1">
+          <shatr id="1">أبكى العيونَ وأذرى دمعها دِرراً</shatr>
+          <shatr id="2">مُصابُ ششَبية َ بيتِ الدينِ والكرَمِ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">كانَ الشجاعَ الجوادَ الفَرْدَ سُؤدَدُهُ</shatr>
+          <shatr id="2">لهُ فضائلُ تعلو سادة َ الأممِ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">مضى أبو الحَرِثَ المأمولُ نائلهُ</shatr>
+          <shatr id="2">والمُنْتَشَى صَولهُ في الناسِ والنَّعم</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">هوَ الرئيسُ الذي لا خَلقَ يقدُمُهُ</shatr>
+          <shatr id="2">غَداة َ يَحْمي عن الأبطالِ بالعَلمِ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">العامرُ البيتَ بيتَ الله بملؤهُ</shatr>
+          <shatr id="2">نُوراً فيجلو كُسوفَ القَحْط والظُّلمِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">ربُّ الفراشِ يصَحْنِ البيتَ تكرمة ً</shatr>
+          <shatr id="2">بذاك فُضِّلَ أهلُ الفخرِ والقِدَمِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">بكتْ قُريشُ أباهَا كلَّها وعلى</shatr>
+          <shatr id="2">إمامِها وحِماها الثَّابتِ الدَّعَمِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">صَفِيُّ بكِّي وجودي بالدُّموعِ لهُ</shatr>
+          <shatr id="2">وأسْعِدي يا أميمُ اليوم بالسِّجَمِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">يُجبكَ نِسوة ُ رَهْطٍ من بني أسَدٍ</shatr>
+          <shatr id="2">والغُرِّ زَهرة َ بعدَ العُربِ والعَجَمِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">ألم يكُنْ زينَ أهلِ الأرضِ كلِّهمِ</shatr>
+          <shatr id="2">وعصْمَة َ الخلقِ من عادٍ ومن أرِمِ؟</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="58">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أتعلم ملك الحبش أن محمدا</title>
+      <qafya></qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">أتعلمُ مَلكَ الحُبشِ أن محمداً</shatr>
+          <shatr id="2">نَبيُّ كموسى والمسيحِ ابنِ مريمِ؟</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أتى بهُدى مثل الذي أتيا به</shatr>
+          <shatr id="2">وكلٌّ بأمر الله يَهْدي ويَعصمُ</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">وإنكمو تَتْلونَهُ في كتابِكم</shatr>
+          <shatr id="2">بصدقِ حديثٍ لا بصدْقِ الترجُّمِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فلا تَجُعلوا لله نِداً وأسلمِوا</shatr>
+          <shatr id="2">وإن طريقَ الحقِّ ليسَ بمُظُلمِ</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="59">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>والله لن يصلوا إليك بجمعهم</title>
+      <qafya>ا</qafya>
+      <type>قطعة</type>
+      <lines number="5">
+        <line id="1">
+          <shatr id="1">واللهِ لن يَصلوا إليكَ بجمعِهمْ</shatr>
+          <shatr id="2">حتى أُوَسَّدَ في الترابِ دَفينا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">فاصدَعْ بأمرِك ما عليكَ غَضاضة ٌ</shatr>
+          <shatr id="2">وأبشِرْ بذاكَ، وقرَّ منهُ عُيونا</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">ودَعَوْتَني، وزَعمتَ أنك ناصحٌ</shatr>
+          <shatr id="2">ولقد صدقْتَ، وكنتَ ثَمَّ أَمينا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">وعَرضْتَ دِيناً قد علمتُ بأنَّهُ</shatr>
+          <shatr id="2">مِن خيرِ أديانِ البريَّة ِ دِينا</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">لولا المَلامة ُ أو حِذاري سُبَّة ً</shatr>
+          <shatr id="2">لوجَدْتني سَمحاً بذاك مُبِينا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="60">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>نحن بنينا طائفا حصينا</title>
+      <qafya>ا</qafya>
+      <type>قطعة</type>
+      <lines number="0"/>
+    </poem>
+    <poem id="61">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>قل لعبد العزى أخي وشقيقي</title>
+      <qafya>ا</qafya>
+      <type>قطعة</type>
+      <lines number="4">
+        <line id="1">
+          <shatr id="1">قُلْ لعبدِ العُزَّى أخي وشَقيقي</shatr>
+          <shatr id="2">وبَني هاشمٍ جَميعاً عِزِينا</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">وصَديقي أبي عِمارَة َ والإخـ</shatr>
+          <shatr id="2">ـوانِ طُرّاً، وأسرتي أجمعينا</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">فاعْلمَوا أنَّني لهُ ناصرٌ</shatr>
+          <shatr id="2">ومُجِرٌّ بِصَولتي الخاذِلينا</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">فانصُروهُ للرِّحْمِ والنَّسَبِ الأدْ</shatr>
+          <shatr id="2">نى، وكونوا له يداً مُصْلتينا</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="62">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>ليت شعري مسافر بن أبي عمـ</title>
+      <qafya>ن</qafya>
+      <type>قصيدة</type>
+      <lines number="13">
+        <line id="1">
+          <shatr id="1">ليتَ شِعري مُسافرَ بنَ أبي عَمْـ</shatr>
+          <shatr id="2">ـروٍ وليتٌ يقولها المحزونُ</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أيُّ شيءٍ دَهاكَ أوْغالَ مَرْآ</shatr>
+          <shatr id="2">كَ وهل أقَدَمَتْ عليه المَنونُ؟</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">أنا حامِيكَ مثلَ آبائيَ الزهـ</shatr>
+          <shatr id="2">لآبائكَ التي لا تَهونُ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">مَيْتُ صِدْقٍ على هُبالة َ أمسَيـ</shatr>
+          <shatr id="2">ـتُ ومِن دونِ مُلتقاكَ الحُجونُ</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">رجعَ الركْبُ سالمينَ جَميعاً</shatr>
+          <shatr id="2">وخَليلي في مَرْمَسٍ مَدْفونُ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">بُوركَ الميِّتُ الغَريبُ كما بُو</shatr>
+          <shatr id="2">رِكَ نضْجُ الرمَّانِ والزَّيتونُ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">مِدْرَة ٌ يدفعُ الخُصومَ بأيْدٍ</shatr>
+          <shatr id="2">وبوجْهٍ يزينُه العِرْنينُ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">كم خليلٍ يزينُه وابنُ عمٍّ</shatr>
+          <shatr id="2">وحَميمٌ قضَتْ عليهِ المَنونُ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">فتعزَّيتُ بالتَّأسِّي وبالصَّبْـ</shatr>
+          <shatr id="2">ـرِ وإنِّي بصاحِبي لضَنِينُ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">كنتَ لي عُدَّة ً وفوقَكَ لافَو</shatr>
+          <shatr id="2">فقد صِرتُ ليسَ دونكَ دُونُ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">كانَ منكَ اليقينُ ليسَ بشافٍ</shatr>
+          <shatr id="2">كيفَ إذْ رجَّمتْك عِندي الظُّنونُ؟</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">كنتَ مولى ً وصاحباً صادقَ الخِبْـ</shatr>
+          <shatr id="2">ـرة ِ حقّاً وخُلَّة ً لا تَخُونُ</shatr>
+        </line>
+        <line id="13">
+          <shatr id="1">فعليك السَّلامُ مِنِّي كَثيراً</shatr>
+          <shatr id="2">أنْفَدَتْ ماءَها عليكَ الشُّؤون</shatr>
+        </line>
+      </lines>
+    </poem>
+    <poem id="63">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>أمن تذكر دهر غير مأمون</title>
+      <qafya></qafya>
+      <type>قصيدة</type>
+      <lines number="12">
+        <line id="1">
+          <shatr id="1">أمِن تَذكُّرِ دهرٍ غيرِ مَأمونِ</shatr>
+          <shatr id="2">أصبحتَ مُكتئباً تَبكي كَمَحزونِ؟</shatr>
+        </line>
+        <line id="2">
+          <shatr id="1">أَمْ مِن تذكُّرِ أقوامٍ ذَوي سَفَهٍ</shatr>
+          <shatr id="2">يَغشوْنَ بالظلمِ مَن يدعو إلى الدِّينِ؟</shatr>
+        </line>
+        <line id="3">
+          <shatr id="1">لا يَنْتَهون عنِ الفحشاءِ ما أمرِوا</shatr>
+          <shatr id="2">والغَدْرُ فيهِم سَبيلٌ غيرُ مأمونِ</shatr>
+        </line>
+        <line id="4">
+          <shatr id="1">ألا يرونَ ـ أذلَّ الله جَمْعَهُموـ</shatr>
+          <shatr id="2">أنّا غَضِبْنا لعثمانَ بنِ مَظْعونِ؟</shatr>
+        </line>
+        <line id="5">
+          <shatr id="1">إذْ يلطِمونَ ـ ولا يَخشوْنَ ـ مُقْلتَهُ</shatr>
+          <shatr id="2">طَعْناً دِراكا وضَرْباًغير مَرهونِ</shatr>
+        </line>
+        <line id="6">
+          <shatr id="1">فسوفَ نجزيهموـ إنْ لم يُمتْ ـ عَجِلاً</shatr>
+          <shatr id="2">كيلاً بكيلٍ جزاءً غيرَ مَغْبونِ</shatr>
+        </line>
+        <line id="7">
+          <shatr id="1">أو ينتهونَ  عنِ الأمرِ الذي وقفوا</shatr>
+          <shatr id="2">فيه ويرضَوْنَ منّا بعدُ بالدُّونِ</shatr>
+        </line>
+        <line id="8">
+          <shatr id="1">ونمنَعُ الضَّيمَ مَن يَبْغيَ مَضامَتَنا</shatr>
+          <shatr id="2">بكلِّ مُطِّردٍ في الكفِّ مَسنونِ</shatr>
+        </line>
+        <line id="9">
+          <shatr id="1">ومُرْهَفاتٍ كأنَّ الملحَ خالطَها</shatr>
+          <shatr id="2">يُشْفَى بها الدَّاءُ مِن هامِ المجانينِ</shatr>
+        </line>
+        <line id="10">
+          <shatr id="1">حتى تُقرَّ رجالٌ لا حلومَ لها</shatr>
+          <shatr id="2">بعدَ الصُّعوبة ِ بالإسْماحِ واللِّينِ</shatr>
+        </line>
+        <line id="11">
+          <shatr id="1">أو يُؤمنوا بكتابٍ مُنْزَلٍ عَجَبٍ</shatr>
+          <shatr id="2">عَلى نبيٍّ كموسى أو كذِي النُّونِ</shatr>
+        </line>
+        <line id="12">
+          <shatr id="1">يأتي بأمرٍ جَليٍّ غيرِ ذي عِوَجٍ</shatr>
+          <shatr id="2">كما تَبيَّنَ في آياتِ ياسِينِ</shatr>
+        </line>
+      </lines>
+    </poem>
+  </poems>
+</poetry>

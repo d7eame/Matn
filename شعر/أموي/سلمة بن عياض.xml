@@ -1,0 +1,24 @@
+<poetry version="1.0" encoding="utf-8">
+  <poet>
+    <name>سلمة بن عياض</name>
+    <sex>ذكر</sex>
+    <date>None</date>
+    <period>أموي</period>
+    <location>None</location>
+  </poet>
+  <poems number="1">
+    <poem id="1">
+      <bahr>None</bahr>
+      <genre>None</genre>
+      <title>رأيتك يا خير البرية  كلها</title>
+      <qafya>ا</qafya>
+      <type>يتيم</type>
+      <lines number="1">
+        <line id="1">
+          <shatr id="1">رأيتكَ يا خيرَ البرية ِ كلها</shatr>
+          <shatr id="2">نشرتَ كتاباً جاءَ بالحقِّ معلما</shatr>
+        </line>
+      </lines>
+    </poem>
+  </poems>
+</poetry>
